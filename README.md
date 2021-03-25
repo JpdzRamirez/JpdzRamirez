@@ -5,14 +5,15 @@
 ## Enfoques
 1. Creación de contenidos para diseño UX y UI que impacten al público.
 2. Desarrollo en codigo de alta calidad.
-   -HTML5, CSS, JAVASCRIPT, C/C++, C#, SQL, MY SQL, Git, Git Hub. 
+   * ✅ HTML5, CSS, JAVASCRIPT, C/C++, C#, SQL, MY SQL, Git, Git Hub. 
    
- ¿Por qué programación?
+### ¿Por qué programación?
  
-Es mi sentido de vida, mi elección
+**Es mi sentido de vida, mi elección**
+
 https://youtu.be/9wNhQ_CfO6k?t=56
 
-“lo que yo creo y lo que soy”
+_“lo que yo creo y lo que soy”_
 
 “Porque programar es el mismísimo sol que me guia”
 Lo que me ilumina en mi mayor desesperación y mi mayor oscuridad
