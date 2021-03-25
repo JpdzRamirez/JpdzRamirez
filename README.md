@@ -26,7 +26,7 @@
  
 **Es mi sentido de vida, mi elección**
 
-https://youtu.be/9wNhQ_CfO6k?t=56
+https://youtu.be/ZNilbE-d15I
 
 _“lo que yo creo y lo que soy”_
 
@@ -38,7 +38,7 @@ Programando con el corazón
 
 Es el Dogma que rige mi vida
 
-https://youtu.be/9wNhQ_CfO6k?t=350
+https://youtu.be/H7weHFBoWwI
 
 “Escribiendo mi vida y codificando el futuro que quiero”
 
