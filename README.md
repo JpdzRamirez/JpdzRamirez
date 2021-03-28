@@ -38,6 +38,9 @@
 2. Desarrollo en codigo de alta calidad.
    * ✅ HTML5, CSS, JAVASCRIPT, C/C++, C#, SQL, MY SQL, Git, Git Hub. 
    
+📊 **Esta semana he dedocado mi tiempo en**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ### ¿Por qué programación?
  
 **Es mi sentido de vida, mi elección**
