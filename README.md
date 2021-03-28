@@ -67,7 +67,11 @@ Es el Dogma que rige mi vida
 
 https://youtu.be/H7weHFBoWwI
 
-“Escribiendo mi vida y codificando el futuro que quiero”
+“Escribiendo mi vida y codificando el futuro que quiero”🌱
+* Cada linea de codigo que escribo me acerca a mi felicidad y es realmente gratificante saber que avanzo. 
+* Cada hora, cada dia que paso programando es tan corto, no noto cuanto tiempo llevo mirando una pantalla, solo veo que cada vez aprendo algo e inmediatamente descubro un sin fin de posibilidades, infinito conocimiento, infinitas horas de programación. Es un mundo por descubrir.
+
+<p align="center"> El futuro de emociona, está lleno de posibilidades y la linea de texto me espera a que escriba el futuro que deseo</p>
 
 Here are some ideas to get you started:
 
