@@ -17,6 +17,7 @@
 <br />
 
 **Hola soy Jeremy Pedraza este es mi presentación**
+![logo](https://user-images.githubusercontent.com/66846214/113460045-fce6bb80-93dc-11eb-83b1-cc109fbbbb12.png)
 
 ## Enfoques 
 
