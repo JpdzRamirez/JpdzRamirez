@@ -62,15 +62,14 @@ _“lo que yo creo y lo que soy”_
 Lo que me ilumina en mi mayor desesperación y mi mayor oscuridad
 Programar me da esperanza y me hace confiar en mí mismo
 https://steamuserimages-a.akamaihd.net/ugc/956339791834321698/0015C91978B5A7E91955643777B83DF6AC79AB74/
-Programando con el corazón ![sql](https://user-images.githubusercontent.com/66846214/113794352-f4a9bb80-970f-11eb-86ed-2db20b141ab9.png)
-![sql](https://user-images.githubusercontent.com/66846214/113794366-fd9a8d00-970f-11eb-8b05-ea4c84e2a57a.png)
+Programando con el corazón 
 
 
 Es el Dogma que rige mi vida
 
 https://youtu.be/H7weHFBoWwI
 
-“Escribiendo mi vida y codificando el futuro que quiero”🌱![Java-Logo](https://user-images.githubusercontent.com/66846214/113794555-700b6d00-9710-11eb-8993-9a388708c2d1.png)
+“Escribiendo mi vida y codificando el futuro que quiero”🌱
 
 * Cada linea de codigo que escribo me acerca a mi felicidad y es realmente gratificante saber que avanzo. 
 * Cada hora, cada dia que paso programando es tan corto, no noto cuanto tiempo llevo mirando una pantalla, solo veo que cada vez aprendo algo e inmediatamente descubro un sin fin de posibilidades, infinito conocimiento, infinitas horas de programación. Es un mundo por descubrir.
