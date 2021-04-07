@@ -37,7 +37,7 @@
 
 1. Creación de contenidos para diseño UX y UI que impacten al público.
 2. Desarrollo en codigo de alta calidad.
-   * ✅ HTML5, CSS, JAVASCRIPT, C/C++, C#, SQL, MY SQL, Git, Git Hub. 
+   * ✅  C/C++, C#, SQL, MYSQL, Git, GitHub, Java, API Java, . 
    
 📊 **Esta semana he dedocado mi tiempo en**
 <!--START_SECTION:waka-->
