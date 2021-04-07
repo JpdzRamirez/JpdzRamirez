@@ -1,4 +1,5 @@
 
+
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/xUA7bawPmP2gglnzR6/giphy.gif" width="25px">
 <a href="https://discord.gg/TFYmAXwX">
   <img align="left" alt="Ramires32 Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -24,12 +25,14 @@
 
 <p align="center">
   
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/66846214/113794412-15721100-9710-11eb-91d0-f67003522c2b.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/66846214/113794124-764d1980-970f-11eb-962e-4a70a85744d2.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/66846214/113794133-7cdb9100-970f-11eb-9b2e-18dbf8360360.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/66846214/113794614-93361c80-9710-11eb-8373-e425e6df5b9c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 </p>
 
 1. Creación de contenidos para diseño UX y UI que impacten al público.
@@ -67,7 +70,8 @@ Es el Dogma que rige mi vida
 
 https://youtu.be/H7weHFBoWwI
 
-“Escribiendo mi vida y codificando el futuro que quiero”🌱
+“Escribiendo mi vida y codificando el futuro que quiero”🌱![Java-Logo](https://user-images.githubusercontent.com/66846214/113794555-700b6d00-9710-11eb-8993-9a388708c2d1.png)
+
 * Cada linea de codigo que escribo me acerca a mi felicidad y es realmente gratificante saber que avanzo. 
 * Cada hora, cada dia que paso programando es tan corto, no noto cuanto tiempo llevo mirando una pantalla, solo veo que cada vez aprendo algo e inmediatamente descubro un sin fin de posibilidades, infinito conocimiento, infinitas horas de programación. Es un mundo por descubrir.
 
