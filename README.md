@@ -14,7 +14,7 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=JpdzRamirez.JpdzRamirez)
+<img src="https://wakatime.com/badge/github/JpdzRamirez/JpdzRamirez.svg" alt="wakatime" />
 
 <br />
 
@@ -35,12 +35,19 @@
 
 </p>
 
+
+
+
+
+
+
 1. Creación de contenidos para diseño UX y UI que impacten al público.
 2. Desarrollo en codigo de alta calidad.
    * ✅  C/C++, C#, SQL, MYSQL, Git, GitHub, Java, API Java, . 
    
 📊 **Esta semana he dedocado mi tiempo en**
 <!--START_SECTION:waka-->
+<a href="https://wakatime.com"><img  height="400" src="https://wakatime.com/share/@062a1793-e1d3-43ae-a9d1-452f34a0513c/d14b65a8-8d27-4a45-b3b6-a9ecd7863992.png" /></a>
 <!--END_SECTION:waka-->
 
 ### Demo
