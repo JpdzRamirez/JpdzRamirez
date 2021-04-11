@@ -43,12 +43,19 @@
 
 1. Creación de contenidos para diseño UX y UI que impacten al público.
 2. Desarrollo en codigo de alta calidad.
-   * ✅  C/C++, C#, SQL, MYSQL, Git, GitHub, Java, API Java, . 
+
+### Lenguajes
+    ✅  C++, C#, Java, JavaScript
+    ✅  SQL, PostgreSQL, Git, GitHub, Java, API Java, JavaScript, MongoDB . 
    
 📊 **Esta semana he dedocado mi tiempo en**
 <!--START_SECTION:waka-->
-<a href="https://wakatime.com"><img  height="400" src="https://wakatime.com/share/@062a1793-e1d3-43ae-a9d1-452f34a0513c/d14b65a8-8d27-4a45-b3b6-a9ecd7863992.png" /></a>
+<a align="Center" href="https://wakatime.com"><img  height="400" src="https://wakatime.com/share/@062a1793-e1d3-43ae-a9d1-452f34a0513c/d14b65a8-8d27-4a45-b3b6-a9ecd7863992.png" /></a>
 <!--END_SECTION:waka-->
+
+## Ruta de Aprendizaje
+
+<p><img src="https://roadmap.sh/roadmaps/backend.png" class="img__Img-arv17j-0 eVoZod"></p>
 
 ### Demo
 
