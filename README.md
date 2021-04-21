@@ -55,7 +55,7 @@
    
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
-<a align="Center" href="https://wakatime.com"><img  height="400" src="https://wakatime.com/share/@062a1793-e1d3-43ae-a9d1-452f34a0513c/d14b65a8-8d27-4a45-b3b6-a9ecd7863992.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@062a1793-e1d3-43ae-a9d1-452f34a0513c/85781926-7a5a-45c3-a68c-60482be5dead.png" /></a>
 <!--END_SECTION:waka-->
 
 ## Roadmap 
