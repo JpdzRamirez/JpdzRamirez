@@ -77,10 +77,18 @@ https://youtu.be/ZNilbE-d15I
 
 _“What I believe and Who i am_
 
-“Porque programar es el mismísimo sol que me guia”
-Lo que me ilumina en mi mayor desesperación y mi mayor oscuridad
-Programar me da esperanza y me hace confiar en mí mismo
-https://steamuserimages-a.akamaihd.net/ugc/956339791834321698/0015C91978B5A7E91955643777B83DF6AC79AB74/
+
+  <h3 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">Because programming is the very sun that guides me 🛣</h3>
+  
+  
+  <h4 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">"What illuminates me in my greatest despair and my greatest darkness " 🔥</h4>
+  
+<div class="loc">
+<img align="center" src="https://media.giphy.com/media/glIbu333nnz7G/giphy.gif" width="354" height="252" alt="Programming gives me hope and makes me trust myself" />
+<span class="faldon"><a href="https://github.com/JpdzRamirez/VCProject" class="lightbox">Programming gives me hope and makes me trust myself</a></span>
+</div>
+
+
 Programando con el corazón 
 
 
