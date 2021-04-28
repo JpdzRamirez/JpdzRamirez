@@ -1,5 +1,4 @@
 
-<img align="center" src="https://user-images.githubusercontent.com/66846214/116432408-365cec00-a80e-11eb-8db1-00df2c1ade07.jpg" width="200px">
 
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/xUA7bawPmP2gglnzR6/giphy.gif" width="25px">
@@ -21,10 +20,16 @@
 <br />
 
 
-**Hello I'm Jeremy Pedraza and this is my introduction** 
+<img align="left" src="https://user-images.githubusercontent.com/66846214/116432408-365cec00-a80e-11eb-8db1-00df2c1ade07.jpg" width="200px">
 
 
-## FOCUS 
+**Hello there I'm Jeremy Pedraza and this is my introduction** 
+
+<p aligns="center"> Actualmente soy junior Backend developer en Java y C# bajo la modalidad Freelance y estudiante de Ingenieria industrial de la Universidad Industrial de Santander. Adicionalmente soy Tecnólogo en Gestión Administrativa, Tecnico en Sistemas. Llevo tiempo orientando mi carrera a la solución de problemas en las organizaciones e instituciones publicas dentro sus sistemas financieros, recursos humanos y sistemas de información y herramientas que interconecten las bases de datos </p>
+
+**Experto en sistemas de cómputo y relacionados; contando con la experiencia y trayectoria necesaria para solucionar problemas en el Front Office y Back Office de cualquier empresa.**
+
+## My Focus is 
 
 <p align="center">
   
