@@ -28,7 +28,7 @@
 
 **Experto en sistemas de cómputo y relacionados; contando con la experiencia y trayectoria necesaria para solucionar problemas en el Front Office y Back Office de cualquier empresa.**
 
-## My Focus is 
+## My Focus   🎯
 
 <p align="center">
   
@@ -54,14 +54,10 @@
 |   |   |   |   |   |
 
 
-
-
-      C++, C#, Java, JavaScript
-    ✅  SQL, PostgreSQL, Git, GitHub, Java, API Java, JavaScript, MongoDB . 
    
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
-<a href="https://wakatime.com"><img  src="https://wakatime.com/share/@062a1793-e1d3-43ae-a9d1-452f34a0513c/85781926-7a5a-45c3-a68c-60482be5dead.png" /></a>
+<a href="https://wakatime.com"><img  width="800 src="https://wakatime.com/share/@062a1793-e1d3-43ae-a9d1-452f34a0513c/85781926-7a5a-45c3-a68c-60482be5dead.png" /></a>
 <!--END_SECTION:waka-->
 
 ## Roadmap 
@@ -77,14 +73,16 @@
 Use [show_owner](#customization) variable to include the repo's owner username
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-### Why programming?
- 
-**It's my sense of life, my choice**
 
-https://youtu.be/ZNilbE-d15I
+<h2 align="center">  Why programming?</h2>
+<h3 align="center"><br> It's my sense of life, my choice</h3> 
+<p align="center">
+<a href="https://www.youtube.com/watch?v=H7weHFBoWwI">
+  <img alt="Abhishek's Spotify" width="500px" src="https://i.pinimg.com/originals/ba/5d/7d/ba5d7ded88ae7bb9598dc7f562c103d0.gif" />
+</a>
+</p>
 
-_“What I believe and Who i am_
-
+<h5 align="center"><br>https://youtu.be/ZNilbE-d15I <em> <br>“What I believe and Who i am </em> </h5>
 
   <h3 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">Because programming is the very sun that guides me 🛣</h3>
   
@@ -101,24 +99,25 @@ _“What I believe and Who i am_
 
  <h4 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">Es el Dogma que rige mi vida"</h4>
 
+<p align="center">
 <a href="https://www.youtube.com/watch?v=H7weHFBoWwI">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/07/Isaac-Netero-from-Hunter-X-Hunter.jpg?q=50&fit=crop&w=740&h=370" />
+  <img alt="Abhishek's Spotify" width="500px" src="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/07/Isaac-Netero-from-Hunter-X-Hunter.jpg?q=50&fit=crop&w=740&h=370" />
 </a>
-
+</p>
   
-<a href=http://connexity.com/blog/2015/05/quick-programmatic-update-faq-about-the-new-ssl-ad-tag-requirements> <br>
-`Watch The video <https://www.youtube.com/watch?v=H7weHFBoWwI>__`
+  <h5 align="center"><br>https://www.youtube.com/watch?v=H7weHFBoWwI <em> <br>“What I believe and Who i am </em> </h5>
+
  
  
 
 
-<h3 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">“Escribiendo mi vida y codificando el futuro que quiero”🌱</h3>
+<h3 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">“Writing my life and coding the future I want”🌱</h3>
 
 
-* Cada linea de codigo que escribo me acerca a mi felicidad y es realmente gratificante saber que avanzo. 
-* Cada hora, cada dia que paso programando es tan corto, no noto cuanto tiempo llevo mirando una pantalla, solo veo que cada vez aprendo algo e inmediatamente descubro un sin fin de posibilidades, infinito conocimiento, infinitas horas de programación. Es un mundo por descubrir.
+* Every line of code that I write brings me closer to my happiness and it is really gratifying to know that I am progressing. 
+* Every hour, every day that I spend programming is so short, I do not notice how long I have been looking at a screen, I only see that each time I learn something and  immediately discover endless possibilities, infinite knowledge, infinite hours of programming. It's a world to discover.
 
-<p align="center"> El futuro de emociona, está lleno de posibilidades y la linea de texto me espera a que escriba el futuro que deseo</p>
+<p align="center"> <em>El futuro de emociona, está lleno de posibilidades y la linea de texto me espera a que escriba el futuro que deseo</em></p>
 
 Here are some ideas to get you started:
 
