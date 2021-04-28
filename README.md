@@ -1,3 +1,4 @@
+![2222](https://user-images.githubusercontent.com/66846214/116455592-df174580-a826-11eb-9c29-045e6479c3ab.jpg)
 
 
 
@@ -21,7 +22,7 @@
 <br />
 
 
-<img align="left" src="https://user-images.githubusercontent.com/66846214/116454955-23561600-a826-11eb-878c-5c1597add97e.jpg" width="200px">
+<img align="left" src="https://user-images.githubusercontent.com/66846214/116455493-bd1dc300-a826-11eb-8af7-18edbc674532.jpg" width="200px">
 
 
 **Hello there I'm Jeremy Pedraza and this is my introduction** 
