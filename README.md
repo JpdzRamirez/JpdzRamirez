@@ -83,20 +83,24 @@ _“What I believe and Who i am_
   
   <h4 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">"What illuminates me in my greatest despair and my greatest darkness " 🔥</h4>
   
-<div class="loc">
+<p align="center">
 <img align="center" src="https://media.giphy.com/media/glIbu333nnz7G/giphy.gif" width="354" height="252" alt="Programming gives me hope and makes me trust myself" />
-<span class="faldon"><a href="https://github.com/JpdzRamirez/VCProject" class="lightbox">Programming gives me hope and makes me trust myself</a></span>
-</div>
+<br>Programming gives me hope and makes me trust myself
+</p>
 
 
-Programando con el corazón 
+ <h3 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">Programando con el corazón  🛣</h3>
+
+ <h4 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">Es el Dogma que rige mi vida"</h4>
 
 
-Es el Dogma que rige mi vida
+[![DOGMA](https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/07/Isaac-Netero-from-Hunter-X-Hunter.jpg?q=50&fit=crop&w=740&h=370)](https://www.youtube.com/watch?v=H7weHFBoWwI "DOGMA")
+<a href=http://connexity.com/blog/2015/05/quick-programmatic-update-faq-about-the-new-ssl-ad-tag-requirements> <br>
+`Watch The video <https://www.youtube.com/watch?v=H7weHFBoWwI>__`
 
-https://youtu.be/H7weHFBoWwI
 
-“Escribiendo mi vida y codificando el futuro que quiero”🌱
+<h3 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">“Escribiendo mi vida y codificando el futuro que quiero”🌱</h3>
+
 
 * Cada linea de codigo que escribo me acerca a mi felicidad y es realmente gratificante saber que avanzo. 
 * Cada hora, cada dia que paso programando es tan corto, no noto cuanto tiempo llevo mirando una pantalla, solo veo que cada vez aprendo algo e inmediatamente descubro un sin fin de posibilidades, infinito conocimiento, infinitas horas de programación. Es un mundo por descubrir.
