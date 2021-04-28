@@ -24,7 +24,8 @@
 
 **Hello there I'm Jeremy Pedraza and this is my introduction** 
 
-<p aligns="center"> Actualmente soy junior Backend developer en Java y C# bajo la modalidad Freelance y estudiante de Ingenieria industrial de la Universidad Industrial de Santander. Adicionalmente soy Tecnólogo en Gestión Administrativa, Tecnico en Sistemas. Llevo tiempo orientando mi carrera a la solución de problemas en las organizaciones e instituciones publicas dentro sus sistemas financieros, recursos humanos y sistemas de información y herramientas que interconecten las bases de datos </p>
+<p aligns="center"> Actualmente soy junior Backend developer en Java y C# bajo la modalidad Freelance y estudiante de Ingenieria industrial de la Universidad Industrial de Santander. Adicionalmente soy Tecnólogo en Gestión Administrativa, Tecnico en Sistemas con cuatro años de trayectoria. Llevo tiempo orientando mi carrera a la solución de diversos problemas dentro de las organizaciones en relación a la administracion de sus recursos, sistemas de información y financieros. Mediante la creación de herramientas o implementación de nuevas tecnologías. 
+He corelacionado la practicidad y efectividad de la programación en todo tipo de soluciones y me apasiona lo que puedo lograr con ello </p>
 
 **Experto en sistemas de cómputo y relacionados; contando con la experiencia y trayectoria necesaria para solucionar problemas en el Front Office y Back Office de cualquier empresa.**
 
@@ -57,22 +58,21 @@
    
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
-<a href="https://wakatime.com"><img  width="800 src="https://wakatime.com/share/@062a1793-e1d3-43ae-a9d1-452f34a0513c/85781926-7a5a-45c3-a68c-60482be5dead.png" /></a>
+
+<p align="center">
+<a  href="https://wakatime.com"><img width="800" src="https://wakatime.com/share/@062a1793-e1d3-43ae-a9d1-452f34a0513c/194843ae-7274-428b-923d-a7b9a65b91cf.png" /></a>
+  
+</p>
 <!--END_SECTION:waka-->
-
-## Roadmap 
-
+<H3 align="center"><strong> Roadmap </strong>
+</h3>
 <p align="center">
   <img width="800"  src="https://roadmap.sh/roadmaps/backend.png" class="img__Img-arv17j-0 eVoZod">
 </p>
 
 ### Demo
+<!--START_SECTION:waka-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-Use [show_owner](#customization) variable to include the repo's owner username
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">  Why programming?</h2>
 <h3 align="center"><br> It's my sense of life, my choice</h3> 
@@ -95,9 +95,9 @@ Use [show_owner](#customization) variable to include the repo's owner username
 </p>
 
 
- <h3 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">Programando con el corazón  🛣</h3>
+ <h3 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">Programming with ❤</h3>
 
- <h4 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">Es el Dogma que rige mi vida"</h4>
+ <h4 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">It is the Dogma that governs my life"</h4>
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=H7weHFBoWwI">
