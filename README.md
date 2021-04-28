@@ -55,12 +55,14 @@
    
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@062a1793-e1d3-43ae-a9d1-452f34a0513c/85781926-7a5a-45c3-a68c-60482be5dead.png" /></a>
+<a href="https://wakatime.com"><img  src="https://wakatime.com/share/@062a1793-e1d3-43ae-a9d1-452f34a0513c/85781926-7a5a-45c3-a68c-60482be5dead.png" /></a>
 <!--END_SECTION:waka-->
 
 ## Roadmap 
 
-<p><img src="https://roadmap.sh/roadmaps/backend.png" class="img__Img-arv17j-0 eVoZod"></p>
+<p align="center">
+  <img width="800"  src="https://roadmap.sh/roadmaps/backend.png" class="img__Img-arv17j-0 eVoZod">
+</p>
 
 ### Demo
 
@@ -93,10 +95,15 @@ _“What I believe and Who i am_
 
  <h4 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">Es el Dogma que rige mi vida"</h4>
 
+<a href="https://www.youtube.com/watch?v=H7weHFBoWwI">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/07/Isaac-Netero-from-Hunter-X-Hunter.jpg?q=50&fit=crop&w=740&h=370" />
+</a>
 
-[![DOGMA](https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/07/Isaac-Netero-from-Hunter-X-Hunter.jpg?q=50&fit=crop&w=740&h=370)](https://www.youtube.com/watch?v=H7weHFBoWwI "DOGMA")
+  
 <a href=http://connexity.com/blog/2015/05/quick-programmatic-update-faq-about-the-new-ssl-ad-tag-requirements> <br>
 `Watch The video <https://www.youtube.com/watch?v=H7weHFBoWwI>__`
+ 
+ 
 
 
 <h3 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">“Escribiendo mi vida y codificando el futuro que quiero”🌱</h3>
