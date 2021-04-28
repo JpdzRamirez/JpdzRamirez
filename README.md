@@ -1,6 +1,5 @@
 
 
-
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/xUA7bawPmP2gglnzR6/giphy.gif" width="25px">
 <a href="https://discord.gg/TFYmAXwX">
   <img align="left" alt="Ramires32 Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -20,7 +19,7 @@
 <br />
 
 
-<img align="left" src="https://user-images.githubusercontent.com/66846214/116455773-1685f200-a827-11eb-8bf5-c7bdedfe61b5.jpg" width="200px">
+<img align="left" src="https://user-images.githubusercontent.com/66846214/116456127-809e9700-a827-11eb-81f4-2ac791be97eb.jpg" width="200px">
 
 
 **Hello there I'm Jeremy Pedraza and this is my introduction** 
