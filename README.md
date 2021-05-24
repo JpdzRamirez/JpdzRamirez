@@ -2,13 +2,13 @@
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/xUA7bawPmP2gglnzR6/giphy.gif" width="25px">
 <a href="https://discord.gg/tEFCyJt3">
-  <img align="left" alt="Jeremy´s Discord" width="22px" src="https://discord.gg/tEFCyJt3" />
+  <img align="left" alt="Jeremy´s Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/TechSystemT">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="www.linkedin.com/in/jeremy-pedraza-72824720b">
-  <img align="left" alt="Jeremy's LinkedIN" width="22px" src="www.linkedin.com/in/jeremy-pedraza-72824720b" />
+  <img align="left" alt="Jeremy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Jeremy's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
@@ -19,16 +19,17 @@
 <br />
 
 
-<img align="left" src="https://user-images.githubusercontent.com/66846214/116457550-27376780-a829-11eb-9938-e8414fa73b55.jpg" width="200px">
+
 
 
 **Hello there I am Jeremy Pedraza, expert in computer and related systems; Counting on the experience and trajectory needed to solve problems at the Front Office and Back Office of any company. this is my introduction**
 
 **** 
-
-<p aligns="center"> I am currently a junior backend developer in Java and C # under the Freelance modality and an Industrial Engineering student at the Industrial University of Santander. I am also a Technologist in Administrative Management, Systems Technician with four years of experience. 
+<img align="left" src="https://user-images.githubusercontent.com/66846214/116457550-27376780-a829-11eb-9938-e8414fa73b55.jpg" width="200px">
+<p aligns="left"> I am currently a junior backend developer in Java and C # under the Freelance modality and an Industrial Engineering student at the Industrial University of Santander. I am also a Technologist in Administrative Management, Systems Technician with four years of experience. 
 I have been guiding my career for some time to solve various problems within organizations regarding the administration of their resources, information and financial systems. Creating tools and implementing new technologies to optimize companies with growth potential. <br>
-I have related the proactivity and effectiveness of programming in all kinds of solutions and I am passionate about what I can achieve with it </p>
+  <br>
+<em>I have related the proactivity and effectiveness of programming in all kinds of solutions and I am passionate about what I can achieve with it</em> </p>
 
 
 
@@ -73,9 +74,9 @@ I have related the proactivity and effectiveness of programming in all kinds of 
   <img width="800"  src="https://roadmap.sh/roadmaps/backend.png" class="img__Img-arv17j-0 eVoZod">
 </p>
 
-### Demo
-<!--START_SECTION:waka-->
 
+<!--START_SECTION:waka-->
+### Thought philosophy
 
 <h2 align="center">  Why programming?</h2>
 <h3 align="center"><br> It's my sense of life, my choice</h3> 
@@ -120,7 +121,7 @@ I have related the proactivity and effectiveness of programming in all kinds of 
 * Every line of code that I write brings me closer to my happiness and it is really gratifying to know that I am progressing. 
 * Every hour, every day that I spend programming is so short, I do not notice how long I have been looking at a screen, I only see that each time I learn something and  immediately discover endless possibilities, infinite knowledge, infinite hours of programming. It's a world to discover.
 
-<p align="center"> <em>El futuro de emociona, está lleno de posibilidades y la linea de texto me espera a que escriba el futuro que deseo</em></p>
+<p align="center"> <em>The future of excites, is full of possibilities and the text line awaits me to write the future I want</em></p>
 
 Here are some ideas to get you started:
 
