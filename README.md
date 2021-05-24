@@ -1,17 +1,17 @@
 
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/xUA7bawPmP2gglnzR6/giphy.gif" width="25px">
-<a href="https://discord.gg/TFYmAXwX">
-  <img align="left" alt="Ramires32 Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discord.gg/tEFCyJt3">
+  <img align="left" alt="Jeremy´s Discord" width="22px" src="https://discord.gg/tEFCyJt3" />
 </a>
 <a href="https://twitter.com/TechSystemT">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="www.linkedin.com/in/jeremy-pedraza-72824720b">
+  <img align="left" alt="Jeremy's LinkedIN" width="22px" src="www.linkedin.com/in/jeremy-pedraza-72824720b" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Jeremy's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
 <img src="https://wakatime.com/badge/github/JpdzRamirez/JpdzRamirez.svg" alt="wakatime" />
@@ -22,12 +22,15 @@
 <img align="left" src="https://user-images.githubusercontent.com/66846214/116457550-27376780-a829-11eb-9938-e8414fa73b55.jpg" width="200px">
 
 
-**Hello there I'm Jeremy Pedraza and this is my introduction** 
+**Hello there I am Jeremy Pedraza, expert in computer and related systems; Counting on the experience and trajectory needed to solve problems at the Front Office and Back Office of any company. this is my introduction**
 
-<p aligns="center"> Actualmente soy junior Backend developer en Java y C# bajo la modalidad Freelance y estudiante de Ingenieria industrial de la Universidad Industrial de Santander. Adicionalmente soy Tecnólogo en Gestión Administrativa, Tecnico en Sistemas con cuatro años de trayectoria. Llevo tiempo orientando mi carrera a la solución de diversos problemas dentro de las organizaciones en relación a la administracion de sus recursos, sistemas de información y financieros. Mediante la creación de herramientas o implementación de nuevas tecnologías. 
-He corelacionado la practicidad y efectividad de la programación en todo tipo de soluciones y me apasiona lo que puedo lograr con ello </p>
+**** 
 
-**Experto en sistemas de cómputo y relacionados; contando con la experiencia y trayectoria necesaria para solucionar problemas en el Front Office y Back Office de cualquier empresa.**
+<p aligns="center"> I am currently a junior backend developer in Java and C # under the Freelance modality and an Industrial Engineering student at the Industrial University of Santander. I am also a Technologist in Administrative Management, Systems Technician with four years of experience. 
+I have been guiding my career for some time to solve various problems within organizations regarding the administration of their resources, information and financial systems. Creating tools and implementing new technologies to optimize companies with growth potential. <br>
+I have related the proactivity and effectiveness of programming in all kinds of solutions and I am passionate about what I can achieve with it </p>
+
+
 
 ## My Focus   🎯
 
@@ -43,19 +46,19 @@ He corelacionado la practicidad y efectividad de la programación en todo tipo d
 
 </p>
 
+- 🔭 I’m currently working on ...
 
+1. Creation of tools and POS SYSTEMS With JAVA SWING 👉📎🖱 .
 
-1. Creation of content for VISUAL.NET.
-2. Developing high quality backend code.
 
 |  Languages | VCS Version Control System  | Relationa Data Bases  | No SQL Data Bases  | Aditional Knowledg  |
 |---|---|---|---|---|
-| ✅ Backend: C++, C#, Java, Visual Basic, PHP | 👍 Git, GitHub | 👀 MYSQL, PostgreSQL  | 👀 MongoDB | 😊 Terminal usage on linux |
+| ✅ Backend: C++👍, C#🧐, Java🤩, Visual Basic😎, PHP🤔 | 👍 Git👏, GitHub | 👀 MYSQL, PostgreSQL  | 👀 MongoDB | 😊 Terminal usage on linux |
 | ✅ Frontend: Basic HTML5, CSS3, JavaScript |👍Git Branch Manage, Repo Hosting Services   |👀 Knowledge about  ORMS, ACID, N+1 problem, Transactions    | 👀Sharing Strategies  | 😮 REST, JSON APIs  |
 |   |   |   |   |   |
 
 
-   
+
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 
@@ -121,7 +124,7 @@ He corelacionado la practicidad y efectividad de la programación en todo tipo d
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
