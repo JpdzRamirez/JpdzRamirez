@@ -10,7 +10,7 @@
 <a href="www.linkedin.com/in/jeremy-pedraza-72824720b">
   <img align="left" alt="Jeremy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+<a href="https://open.spotify.com/user/hw0bz09w8mga45e8b2o1u1x6d?si=2e0e08b6649e4101">
   <img align="left" alt="Jeremy's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
