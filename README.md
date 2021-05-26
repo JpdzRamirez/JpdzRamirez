@@ -47,9 +47,15 @@ I have been guiding my career for some time to solve various problems within org
 
 </p>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
+ <ul>
+  <li><a href="https://github.com/JpdzRamirez/VCProject"> 
+ Building proyects in POO languages and Web desing 👉📎 </a></li>
+  <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/JAVA/POO/EVENTOS%20Y%20JAVA%20SWING"> 
+ Creation of tools and POS SYSTEMS With JAVA SWING 👉📎🖱 </a></li>
+  
+</ul>  
 
-1. Creation of tools and POS SYSTEMS With JAVA SWING 👉📎🖱 .
 
 
 |  Languages | VCS Version Control System  | Relationa Data Bases  | No SQL Data Bases  | Aditional Knowledg  |
