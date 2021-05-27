@@ -25,12 +25,16 @@
 **Hello there I am Jeremy Pedraza, expert in computer and related systems; Counting on the experience and trajectory needed to solve problems at the Front Office and Back Office of any company. this is my introduction**
 
 **** 
-<img align="left" src="https://user-images.githubusercontent.com/66846214/116457550-27376780-a829-11eb-9938-e8414fa73b55.jpg" width="200px">
-<p aligns="left"> I am currently a junior backend developer in Java and C # under the Freelance modality and an Industrial Engineering student at the Industrial University of Santander. I am also a Technologist in Administrative Management, Systems Technician with four years of experience. 
+
+<p align="left">
+<img align="center" src="https://user-images.githubusercontent.com/66846214/116457550-27376780-a829-11eb-9938-e8414fa73b55.jpg" width="200" alt="Programming gives me hope and makes me trust myself" />
+More About me
+</p><p aligns="Right"> I am currently a junior backend developer in Java and C # under the Freelance modality and an Industrial Engineering student at the Industrial University of Santander. I am also a Technologist in Administrative Management, Systems Technician with four years of experience. 
 I have been guiding my career for some time to solve various problems within organizations regarding the administration of their resources, information and financial systems. Creating tools and implementing new technologies to optimize companies with growth potential. <br>
   <br>
 <em>I have related the proactivity and effectiveness of programming in all kinds of solutions and I am passionate about what I can achieve with it</em> </p>
-
+<br>
+> More About Me.
 
 
 ## My Focus   🎯
@@ -111,7 +115,7 @@ I have been guiding my career for some time to solve various problems within org
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=H7weHFBoWwI">
-  <img alt="Abhishek's Spotify" width="500px" src="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/07/Isaac-Netero-from-Hunter-X-Hunter.jpg?q=50&fit=crop&w=740&h=370" />
+  <img width="500px" src="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/07/Isaac-Netero-from-Hunter-X-Hunter.jpg?q=50&fit=crop&w=740&h=370" />
 </a>
 </p>
   
