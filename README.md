@@ -27,7 +27,7 @@
 </a>
     </picture>
     <div align="center" class="more_about">
-       <h5>xxxxxxxxx</h5>
+       <h5 href="https://github.com/JpdzRamirez/VCProject/tree/main/Estudios%20y%20Hoja%20de%20vida">More about me</h5>
       <div align="left" class="itro">
       <p><strong>Hello there I am Jeremy Pedraza, expert in computer and related systems; Counting on the experience and trajectory needed to solve problems at the Front Office and Back Office of any company. this is my introduction</strong></p>
          </div>
