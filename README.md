@@ -27,7 +27,7 @@
 **** 
 
 <p align="left">
-<img align="center" src="https://user-images.githubusercontent.com/66846214/116457550-27376780-a829-11eb-9938-e8414fa73b55.jpg" width="200" alt="Programming gives me hope and makes me trust myself" />
+<img align="center" src="https://user-images.githubusercontent.com/66846214/116457550-27376780-a829-11eb-9938-e8414fa73b55.jpg" width="200" href="https://github.com/JpdzRamirez/VCProject/tree/main/Estudios%20y%20Hoja%20de%20vida" />
 More About me
 </p><p aligns="Right"> I am currently a junior backend developer in Java and C # under the Freelance modality and an Industrial Engineering student at the Industrial University of Santander. I am also a Technologist in Administrative Management, Systems Technician with four years of experience. 
 I have been guiding my career for some time to solve various problems within organizations regarding the administration of their resources, information and financial systems. Creating tools and implementing new technologies to optimize companies with growth potential. <br>
