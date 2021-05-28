@@ -19,22 +19,23 @@
 <br />
 
 
-<div class="author">
-    <picture align="center" class="Jeremy">
+<div align="center" class="author">
+    <picture  class="Jeremy">
       <source srcset="/assets/manz.webp">
       <a href="https://github.com/JpdzRamirez/VCProject/tree/main/Estudios%20y%20Hoja%20de%20vida">
 <img align="center" src="https://user-images.githubusercontent.com/66846214/116457550-27376780-a829-11eb-9938-e8414fa73b55.jpg" width="200" href="https://github.com/JpdzRamirez/VCProject/tree/main/Estudios%20y%20Hoja%20de%20vida" />
 </a>
     </picture>
-    <div class="desc">
-      <h5>xxxxxxxxx</h5>
-      <p>xxxxxxxxxxxxxxxxxxxxxxxx.</p>
+    <div align="center" class="more_about">
+       <h5>xxxxxxxxx</h5>
+      <div align="left" class="itro">
+      <p><strong>Hello there I am Jeremy Pedraza, expert in computer and related systems; Counting on the experience and trajectory needed to solve problems at the Front Office and Back Office of any company. this is my introduction</strong></p>
+         </div>
   </div>
     </div>
   </div>
 
 
-**Hello there I am Jeremy Pedraza, expert in computer and related systems; Counting on the experience and trajectory needed to solve problems at the Front Office and Back Office of any company. this is my introduction**
 
 **** 
 
@@ -46,6 +47,16 @@ I have been guiding my career for some time to solve various problems within org
   <br>
 <em>I have related the proactivity and effectiveness of programming in all kinds of solutions and I am passionate about what I can achieve with it</em> </p>
 <br>
+
+
+- 🔭 I’m currently working on ... 
+ <ul>
+  <li><a href="https://github.com/JpdzRamirez/VCProject"> 
+ Building proyects in POO languages and Web desing 👉📎 </a></li>
+  <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/JAVA/POO/EVENTOS%20Y%20JAVA%20SWING"> 
+ Creation of tools and POS SYSTEMS With JAVA SWING 👉📎🖱 </a></li>
+  
+</ul>  
 
 
 
@@ -62,15 +73,6 @@ I have been guiding my career for some time to solve various problems within org
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 </p>
-
-- 🔭 I’m currently working on ... 
- <ul>
-  <li><a href="https://github.com/JpdzRamirez/VCProject"> 
- Building proyects in POO languages and Web desing 👉📎 </a></li>
-  <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/JAVA/POO/EVENTOS%20Y%20JAVA%20SWING"> 
- Creation of tools and POS SYSTEMS With JAVA SWING 👉📎🖱 </a></li>
-  
-</ul>  
 
 
 
