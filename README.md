@@ -19,22 +19,34 @@
 <br />
 
 
-
+<div class="author">
+    <picture align="center" class="Jeremy">
+      <source srcset="/assets/manz.webp">
+      <a href="https://github.com/JpdzRamirez/VCProject/tree/main/Estudios%20y%20Hoja%20de%20vida">
+<img align="center" src="https://user-images.githubusercontent.com/66846214/116457550-27376780-a829-11eb-9938-e8414fa73b55.jpg" width="200" href="https://github.com/JpdzRamirez/VCProject/tree/main/Estudios%20y%20Hoja%20de%20vida" />
+</a>
+    </picture>
+    <div class="desc">
+      <h5>xxxxxxxxx</h5>
+      <p>xxxxxxxxxxxxxxxxxxxxxxxx.</p>
+  </div>
+    </div>
+  </div>
 
 
 **Hello there I am Jeremy Pedraza, expert in computer and related systems; Counting on the experience and trajectory needed to solve problems at the Front Office and Back Office of any company. this is my introduction**
 
 **** 
 
-<p align="left">
+<a href="https://github.com/JpdzRamirez/VCProject/tree/main/Estudios%20y%20Hoja%20de%20vida">
 <img align="center" src="https://user-images.githubusercontent.com/66846214/116457550-27376780-a829-11eb-9938-e8414fa73b55.jpg" width="200" href="https://github.com/JpdzRamirez/VCProject/tree/main/Estudios%20y%20Hoja%20de%20vida" />
-More About me
-</p><p aligns="Right"> I am currently a junior backend developer in Java and C # under the Freelance modality and an Industrial Engineering student at the Industrial University of Santander. I am also a Technologist in Administrative Management, Systems Technician with four years of experience. 
+</a>
+<p aligns="Right"> I am currently a junior backend developer in Java and C # under the Freelance modality and an Industrial Engineering student at the Industrial University of Santander. I am also a Technologist in Administrative Management, Systems Technician with four years of experience. 
 I have been guiding my career for some time to solve various problems within organizations regarding the administration of their resources, information and financial systems. Creating tools and implementing new technologies to optimize companies with growth potential. <br>
   <br>
 <em>I have related the proactivity and effectiveness of programming in all kinds of solutions and I am passionate about what I can achieve with it</em> </p>
 <br>
-> More About Me.
+
 
 
 ## My Focus   🎯
