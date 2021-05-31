@@ -51,7 +51,7 @@ I have been guiding my career for some time to solve various problems within org
  <ul>
   <li><a href="https://github.com/JpdzRamirez/VCProject"> 
  Building proyects in POO languages and Web desing 👉📎 </a></li>
-  <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/JAVA/POO/EVENTOS%20Y%20JAVA%20SWING"> 
+  <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/JAVA/POO/EVENTOS%20Y%20JAVA%20SWIN"> 
  Creation of tools and POS SYSTEMS With JAVA SWING 👉📎🖱 </a></li>
   
 </ul>  
