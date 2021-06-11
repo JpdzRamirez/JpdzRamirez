@@ -46,17 +46,34 @@ I have been guiding my career for some time to solve various problems within org
 <em>"I have related the proactivity and effectiveness of programming in all kinds of solutions and I am passionate about what I can achieve with it"</em> </p>
 <br>
 
-
-- 🔭 I’m currently working on ... 
+### 📫 How to reach me: ...
  <ul>
+ <li><a href="https://accounts.google.com/AccountChooser/signinchooser?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AccountChooser"> 
+ 👉📩📮 jeremyivanpedraza@gmail.com </a></li>
+<li><a href="https://wa.me/message/ZYPEQZ3HY5PVL1"> 
+ 👉📲 https://wa.me/message/ZYPEQZ3HY5PVL1 </a></li>
+  </ul>  
+  
+ 
+ ### 🔭 I’m currently working on ... 
+ <ul>
+   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/VisualBasic"> 
+ Creation of tools on Visual Basic 👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/VCProject"> 
- Building proyects in POO languages and Web desing 👉📎 </a></li>
+ Building proyects in POO languages and Web desing 👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/JAVA/POO/EVENTOS%20Y%20JAVA%20SWIN"> 
  Creation of tools and POS SYSTEMS With JAVA SWING 👉📎🖱 </a></li>
+ 
   
 </ul>  
 
+###  ⚡ My Goals
 
+<p> <em>In the present algorithm development, the meta search for character strings and keywords was achieved in a matrix system with N-iterations.</em> </p>
+<ul>
+   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/VisualBasic/Bases%20de%20Datos/Libros%20Excel/FUID%20UIS%20ARCHIVO"> 
+     Santander Industrial University<strong> Archival Division</strong> on Visual Basic 👉📎🖱 </a></li>
+</ul>  
 
 ## My Focus   🎯
 
