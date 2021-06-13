@@ -48,7 +48,7 @@ I have been guiding my career for some time to solve various problems within org
 
 ### 📫 How to reach me: ...
  <ul>
- <li><a href="https://accounts.google.com/AccountChooser/signinchooser?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AccountChooser"> 
+ <li><a href="mailto:jeremyivanpedraza@gmail.com"> 
  👉📩📮 jeremyivanpedraza@gmail.com </a></li>
 <li><a href="https://wa.me/message/ZYPEQZ3HY5PVL1"> 
  👉📲 https://wa.me/message/ZYPEQZ3HY5PVL1 </a></li>
@@ -56,7 +56,6 @@ I have been guiding my career for some time to solve various problems within org
 👉🖥 www.linkedin.com/in/Jeremy-Iván-Pedraza-Hernández </a></li> 
   </ul>  
   
-
  
  ### 🔭 I’m currently working on ... 
  <ul>
