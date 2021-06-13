@@ -52,7 +52,7 @@ I have been guiding my career for some time to solve various problems within org
  👉📩📮 jeremyivanpedraza@gmail.com </a></li>
 <li><a href="https://wa.me/message/ZYPEQZ3HY5PVL1"> 
  👉📲 https://wa.me/message/ZYPEQZ3HY5PVL1 </a></li>
-  <li><a href="www.linkedin.com/in/Jeremy-Iván-Pedraza-Hernández"> 
+  <li><a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"> 
 👉🖥 www.linkedin.com/in/Jeremy-Iván-Pedraza-Hernández </a></li> 
   </ul>  
 
