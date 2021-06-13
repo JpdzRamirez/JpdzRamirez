@@ -48,14 +48,14 @@ I have been guiding my career for some time to solve various problems within org
 
 ### 📫 How to reach me: ...
  <ul>
- <li><a href="mailto:jeremyivanpedraza@gmail.com"> 
+ <li><a href="mailto:jeremyivanpedraza@gmail.com?Subject=%20Servicios%20de%20Programación%20"> 
  👉📩📮 jeremyivanpedraza@gmail.com </a></li>
 <li><a href="https://wa.me/message/ZYPEQZ3HY5PVL1"> 
  👉📲 https://wa.me/message/ZYPEQZ3HY5PVL1 </a></li>
   <li><a href="www.linkedin.com/in/Jeremy-Iván-Pedraza-Hernández"> 
 👉🖥 www.linkedin.com/in/Jeremy-Iván-Pedraza-Hernández </a></li> 
   </ul>  
-  
+
  
  ### 🔭 I’m currently working on ... 
  <ul>
