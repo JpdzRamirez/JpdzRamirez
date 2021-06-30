@@ -63,8 +63,8 @@ I have been guiding my career for some time to solve various problems within org
  Creation of tools on Visual Basic 👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/VCProject"> 
  Building proyects in POO languages and Web desing 👉📎🖱 </a></li>
-  <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/JAVA/POO/EVENTOS%20Y%20JAVA%20SWIN"> 
- Creation of tools and POS SYSTEMS With JAVA SWING 👉📎🖱 </a></li>
+  <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/JAVA/Spring%20Boot%20MVC%20arquitecture"> 
+ Creation of Spring BOOT proyects in JAVA with arquitecture MVC 💚👉📎🖱 </a></li>
  
   
 </ul>  
