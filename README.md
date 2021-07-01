@@ -120,12 +120,13 @@ I have been guiding my career for some time to solve various problems within org
 ### Thought philosophy
 
 <h2 align="center">  Why programming?</h2>
-<h3 align="center"><br> It's my sense of life, my choice</h3> 
+<h3 align="center"><br> It's my sense of life, my choice , I choose, do you choose?</h3> 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=H7weHFBoWwI">
-  <img alt="Abhishek's Spotify" width="500px" src="https://i.pinimg.com/originals/ba/5d/7d/ba5d7ded88ae7bb9598dc7f562c103d0.gif" />
+  <img alt="Abhishek's Spotify" height="400" width="800px" src="https://user-images.githubusercontent.com/66846214/124176234-409ca000-da74-11eb-9f7f-89404e933abc.png" />
 </a>
 </p>
+
 
 <h5 align="center"><br>https://youtu.be/ZNilbE-d15I <em> <br>“What I believe and Who i am </em> </h5>
 
