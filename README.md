@@ -96,7 +96,7 @@ I have been guiding my career for some time to solve various problems within org
  ### 🔭 I’m currently working on ... 
  <ul>
    <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/JAVA/BackEnd%20ARQ%20Transactional%20JAVA"> 
- Backend Development in Dependent Projects with Prototipes MVC, DTO, DAO 👉📎🖱 </a></li>
+ Backend testing in Dependent Projects with JAVA 👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/VisualBasic"> 
  Building Advanced Excel´s projects in Visual Basic  👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/JAVA/Spring%20Boot%20MVC%20arquitecture"> 
