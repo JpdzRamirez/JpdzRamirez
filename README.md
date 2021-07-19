@@ -96,7 +96,7 @@ I have been guiding my career for some time to solve various problems within org
  ### 🔭 I’m currently working on ... 
  <ul>
    <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/VisualBasic"> 
- Creation of tools on Visual Basic 👉📎🖱 </a></li>
+ Desarrollo de Backend en Proyectos dependientes con Prototivos MVC, DTO, DAO 👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/VCProject"> 
  Building proyects in POO languages and Web desing 👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/JAVA/Spring%20Boot%20MVC%20arquitecture"> 
