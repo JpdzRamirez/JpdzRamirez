@@ -191,11 +191,12 @@ I have been guiding my career for some time to solve various problems within org
  </details>
 <!--START_SECTION:waka-->
 <br>
-
+<details>
+  <summary> in contruction ⛏🛠</summary>
 <a href="https://github.com/JpdzRamirez/VCProject#readme">
 <img align="center" src="https://camo.githubusercontent.com/37514554a55fb90f15eb296a6933fe3c82ee3b340e62a15ac78044b62362d42e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6275656679" alt="JCS´s favorite languagues/>
 </a>
-
+</details>
 <br>
 
 ### Thought philosophy
