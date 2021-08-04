@@ -94,7 +94,7 @@ I have been guiding my career for some time to solve various problems within org
 
  
  ### 🔭 I’m currently working on ... 
- <ul>}
+ <ul>
   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/PHP"> 
  PHP, MYSQL Development👉📎🖱 </a></li>
    <li><a href="https://github.com/JpdzRamirez/boilerplate-npm"> 
