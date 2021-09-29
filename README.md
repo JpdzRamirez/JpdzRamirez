@@ -95,6 +95,10 @@ I have been guiding my career for some time to solve various problems within org
  
  ### 🔭 I’m currently working on ... 
  <ul>
+  <li><a href="https://github.com/JpdzRamirez/WebServices/tree/main/Crud%20and%20CV/laravel"> 
+ Laravel CRUD👉📎🖱 </a></li>
+  <li><a href="https://github.com/JpdzRamirez/WebServices/tree/main/Crud%20and%20CV/Landing"> 
+ LANDING PAGE . WORKING...🛠👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/PHP"> 
  PHP, MYSQL Development👉📎🖱 </a></li>
    <li><a href="https://github.com/JpdzRamirez/boilerplate-npm"> 
@@ -136,7 +140,11 @@ I have been guiding my career for some time to solve various problems within org
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688226-c6ff1200-0bc5-11eb-82cc-33e35bcb0910.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>
-
+  <code><img height="40" src="https://user-images.githubusercontent.com/66846214/135279462-ea26d960-b2b7-42b6-90a2-0bb7fc5ae943.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/66846214/135279239-149c6db6-8b11-42c9-8b0d-dd2aeba6d650.jpg"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/66846214/135279336-2c4ab718-eac2-4874-bdd5-6eeba13446c1.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/66846214/135279399-d2269c00-eb0e-43a2-9055-0fbdc1c3ec84.png"></code>
+  
   </p>
   
 &nbsp;  
@@ -153,7 +161,7 @@ I have been guiding my career for some time to solve various problems within org
   
   </p>
 &nbsp;
-## My Focus   🎯
+## My Focus To learn  🎯
 
 <p align="center">
   
@@ -168,7 +176,7 @@ I have been guiding my career for some time to solve various problems within org
 </p>
 
 
-
+<h3>How I organice my </h3>
 |  Languages | VCS Version Control System  | Relationa Data Bases  | No SQL Data Bases  | Aditional Knowledg  |
 |---|---|---|---|---|
 | ✅ Backend: C++👍, C#🧐, Java🤩, Visual Basic😎, PHP🤔 | 👍 Git👏, GitHub | 👀 MYSQL, PostgreSQL  | 👀 MongoDB | 😊 Terminal usage on linux |
