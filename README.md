@@ -70,12 +70,13 @@
 
    <a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content">
   
-     
 <img align="center" src="https://user-images.githubusercontent.com/66846214/116457550-27376780-a829-11eb-9938-e8414fa73b55.jpg" width="200" href="https://github.com/JpdzRamirez/VCProject/tree/main/Estudios%20y%20Hoja%20de%20vida" />
 </a>
     </picture>
   
-  ![snake animation](https://github.com/Jhonierk/Jhonierk/blob/output/github-contribution-grid-snake.svg)
+  
+  
+![snake animation](https://github.com/Jhonierk/Jhonierk/blob/output/github-contribution-grid-snake.svg)
   
  
   <div align="center" class="more_about">
