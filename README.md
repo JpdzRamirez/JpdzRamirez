@@ -1,18 +1,16 @@
 
 
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/xUA7bawPmP2gglnzR6/giphy.gif" width="25px">
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><img src="https://media.giphy.com/media/xUA7bawPmP2gglnzR6/giphy.gif" width="25">
 
   
 <a href="https://discord.gg/tEFCyJt3">
-  <img align="left" alt="Jeremy´s Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Jeremy´s Discord" width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/TechSystemT">
-  <img align="left" alt="Jeremy's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Jeremy's | Twitter" width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="https://open.spotify.com/user/hw0bz09w8mga45e8b2o1u1x6d?si=2e0e08b6649e4101">
-  <img align="left" alt="Jeremy's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 <img src="https://wakatime.com/badge/github/JpdzRamirez/JpdzRamirez.svg" alt="wakatime" />
 
@@ -51,6 +49,17 @@
 </h1>
 
 
+<div align="center"><br>
+  <img align="center" alt="Jhonierk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jhonierk-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Jhonierk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jhonierk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jhonierk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jhonierk-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Jhonierk-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
+</div>
+
 
 
 <!-- Background -->
@@ -62,7 +71,11 @@
 <img align="center" src="https://user-images.githubusercontent.com/66846214/116457550-27376780-a829-11eb-9938-e8414fa73b55.jpg" width="200" href="https://github.com/JpdzRamirez/VCProject/tree/main/Estudios%20y%20Hoja%20de%20vida" />
 </a>
     </picture>
-    <div align="center" class="more_about">
+  
+  ![snake animation](https://github.com/Jhonierk/Jhonierk/blob/output/github-contribution-grid-snake.svg)
+  
+ 
+  <div align="center" class="more_about">
        <a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content">More about me</a>
       <div align="left" class="itro">
       <p><strong>Hello there I am Jeremy Pedraza, expert in computer and related systems; Counting on the experience and trajectory needed to solve problems at the Front Office and Back Office of any company. this is my introduction</strong></p>
@@ -188,10 +201,7 @@ I have been guiding my career for some time to solve various problems within org
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 
-<p align="center">
-<a  href="https://wakatime.com"><img width="800" src="https://wakatime.com/share/@062a1793-e1d3-43ae-a9d1-452f34a0513c/194843ae-7274-428b-923d-a7b9a65b91cf.png" /></a>
-  
-</p>
+
 <!--END_SECTION:waka-->
 <br>
 
