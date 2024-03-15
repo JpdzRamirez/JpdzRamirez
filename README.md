@@ -8,7 +8,7 @@
 
 </a>
 <a href="https://twitter.com/TechSystemT">
-  <img align="left" alt="Jeremy's | Twitter" width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Jeremy's | Twitter" width="22" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />
 </a>
 
 
