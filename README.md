@@ -195,11 +195,49 @@ I have been guiding my career for some time to solve various problems within org
 
 
 <h3>How I organice my </h3>
-|  Languages | VCS Version Control System  | Relationa Data Bases  | No SQL Data Bases  | Aditional Knowledg  |
-|---|---|---|---|---|
-| ✅ Backend: C++👍, C#🧐, Java🤩, Visual Basic😎, PHP🤔 | 👍 Git👏, GitHub | 👀 MYSQL, PostgreSQL  | 👀 MongoDB | 😊 Terminal usage on linux |
-| ✅ Frontend: Basic HTML5, CSS3, JavaScript |👍Git Branch Manage, Repo Hosting Services   |👀 Knowledge about  ORMS, ACID, N+1 problem, Transactions    | 👀Sharing Strategies  | 😮 REST, JSON APIs  |
-|   |   |   |   |   |
+<table>
+      <thead>
+        <tr>
+          <th>CODE</th>
+          <th>STOCK</th>
+          <th>CAP</th>
+          <th>INCH</th>
+          <th>BOX TYPE</th>
+        </tr>
+      <thead>
+      <tbody>
+        <tr>
+          <td>CES-9000</td>
+          <td>50mt</td>
+          <td>9mm</td>
+          <td>1/2"</td>
+          <td>Kangal / Coil</td>
+        </tr>
+           <tr>
+          <td>CES-9000</td>
+          <td>50mt</td>
+          <td>9mm</td>
+          <td>1/2"</td>
+          <td>Kangal / Coil</td>
+        </tr>
+           <tr>
+          <td>CES-9000</td>
+          <td>50mt</td>
+          <td>9mm</td>
+          <td>1/2"</td>
+          <td>Kangal / Coil</td>
+        </tr>
+           <tr>
+          <td>CES-9000</td>
+          <td>50mt</td>
+          <td>9mm</td>
+          <td>1/2"</td>
+          <td>Kangal / Coil</td>
+        </tr>
+      </tbody>
+    <table/>
+      
+    <blockquote> Responsive Table </blockquote>
 
 
 
