@@ -1,8 +1,8 @@
 
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><img src="https://media.giphy.com/media/xUA7bawPmP2gglnzR6/giphy.gif" width="25">
-
-table {
+<style>
+	table {
 	 border-spacing: 1;
 	 border-collapse: collapse;
 	 background: white;
@@ -97,6 +97,8 @@ table {
 	 text-align: center;
 }
  
+</style>
+
   
 <a href="https://discord.gg/tEFCyJt3">
   <img align="left" alt="Jeremy's | Twitter" width="22" src="https://www.svgrepo.com/show/452188/discord.svg" />
