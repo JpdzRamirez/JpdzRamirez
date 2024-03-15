@@ -2,6 +2,101 @@
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><img src="https://media.giphy.com/media/xUA7bawPmP2gglnzR6/giphy.gif" width="25">
 
+table {
+	 border-spacing: 1;
+	 border-collapse: collapse;
+	 background: white;
+	 border-radius: 6px;
+	 overflow: hidden;
+	 max-width: 800px;
+	 width: 100%;
+	 margin: 0 auto;
+	 position: relative;
+}
+ table * {
+	 position: relative;
+}
+ table td, table th {
+	 padding-left: 8px;
+}
+ table thead tr {
+	 height: 60px;
+	 background: #ffed86;
+	 font-size: 16px;
+}
+ table tbody tr {
+	 height: 48px;
+	 border-bottom: 1px solid #e3f1d5;
+}
+ table tbody tr:last-child {
+	 border: 0;
+}
+ table td, table th {
+	 text-align: left;
+}
+ table td.l, table th.l {
+	 text-align: right;
+}
+ table td.c, table th.c {
+	 text-align: center;
+}
+ table td.r, table th.r {
+	 text-align: center;
+}
+ @media screen and (max-width: 35.5em) {
+	 table {
+		 display: block;
+	}
+	 table > *, table tr, table td, table th {
+		 display: block;
+	}
+	 table thead {
+		 display: none;
+	}
+	 table tbody tr {
+		 height: auto;
+		 padding: 8px 0;
+	}
+	 table tbody tr td {
+		 padding-left: 45%;
+		 margin-bottom: 12px;
+	}
+	 table tbody tr td:last-child {
+		 margin-bottom: 0;
+	}
+	 table tbody tr td:before {
+		 position: absolute;
+		 font-weight: 700;
+		 width: 40%;
+		 left: 10px;
+		 top: 0;
+	}
+	 table tbody tr td:nth-child(1):before {
+		 content: "Code";
+	}
+	 table tbody tr td:nth-child(2):before {
+		 content: "Stock";
+	}
+	 table tbody tr td:nth-child(3):before {
+		 content: "Cap";
+	}
+	 table tbody tr td:nth-child(4):before {
+		 content: "Inch";
+	}
+	 table tbody tr td:nth-child(5):before {
+		 content: "Box Type";
+	}
+}
+ body {
+	 background: #9bc86a;
+	 font: 400 14px 'Calibri', 'Arial';
+	 padding: 20px;
+}
+ blockquote {
+	 color: white;
+	 text-align: center;
+}
+ 
   
 <a href="https://discord.gg/tEFCyJt3">
   <img align="left" alt="Jeremy's | Twitter" width="22" src="https://www.svgrepo.com/show/452188/discord.svg" />
