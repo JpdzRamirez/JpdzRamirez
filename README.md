@@ -94,7 +94,7 @@
 
 **** 
 
-<p> I am currently a junior backend developer in Java and C # under the Freelance modality and an Industrial Engineering student at the <br> Industrial University of Santander. 
+<p> I am currently a junior backend developer in Java and C # under the Freelance modality </p>. 
 I am also a Technologist in Administrative Management, Systems Technician with four years of experience. 
 I have been guiding my career for some time to solve various problems within organizations regarding the administration <br> of their resources, information and financial systems. Creating tools and implementing new technologies to optimize companies with growth potential. <br>
 <br>
