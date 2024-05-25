@@ -50,19 +50,17 @@
   </a>
 </h1>
 
-
 <div align="center"><br>
-  <img align="center" alt="Jhonierk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jhonierk-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jhonierk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jhonierk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jhonierk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jhonierk-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Jhonierk-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Laravel 9" height="30" width="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/ba984d51-7f2c-450e-b0e6-6419b2ca3071">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
 </div>
-
-
 
 <!-- Background -->
 
@@ -72,7 +70,7 @@
 
    <a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content">
   
-<img align="center" src="https://user-images.githubusercontent.com/66846214/116457550-27376780-a829-11eb-9938-e8414fa73b55.jpg" width="200" href="https://github.com/JpdzRamirez/VCProject/tree/main/Estudios%20y%20Hoja%20de%20vida" />
+<img align="center" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/d132e4cf-1d1e-42f9-a09a-327e292101e9" width="200" href="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/d132e4cf-1d1e-42f9-a09a-327e292101e9" />
 </a>
     </picture>
   
@@ -171,12 +169,13 @@ I have been guiding my career for some time to solve various problems within org
   <!-- Skills to learn -->
 <p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
   
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125928-05122400-35c0-11eb-836b-4c2e4de16070.png"></code>
-  <code><img height="40" src="https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/assets/v3/editorial/1/8b/18baec39-c977-5dbd-bba3-63e5aa2c8727/609d8ca98fd13.image.jpg?resize=664%2C630"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg"></code>  
+  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/6044d958-6d78-4dc2-8856-2d920454cdf1"></code>
+  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/d918ce1a-1d08-45b7-83eb-855fb642f423"></code>
+  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/9f6b87f1-3c18-4d91-8f35-faaba37d3d42"></code>  
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code>
-  <code><img height="40" src="https://ionicframework.com/jp/docs/assets/icons/logo-react-icon.png"></code>
+  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/e772b107-ea7d-4588-8037-5bab5139b9b8"></code>
+  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/0b261538-77ab-40e8-bc8c-3bb15eac587d"></code>
+    <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/833a220a-73dc-4773-8f3b-6de30f47f8db"></code>
   
   </p>
 &nbsp;
@@ -235,30 +234,8 @@ I have been guiding my career for some time to solve various problems within org
 		  </ul> 	  
 	  </td>
         </tr>
-           <tr>
-          <td>CES-9000</td>
-          <td>50mt</td>
-          <td>9mm</td>
-          <td>1/2"</td>
-          <td>Kangal / Coil</td>
-        </tr>
-           <tr>
-          <td>CES-9000</td>
-          <td>50mt</td>
-          <td>9mm</td>
-          <td>1/2"</td>
-          <td>Kangal / Coil</td>
-        </tr>
-           <tr>
-          <td>CES-9000</td>
-          <td>50mt</td>
-          <td>9mm</td>
-          <td>1/2"</td>
-          <td>Kangal / Coil</td>
-        </tr>
       </tbody>
-    <table/>
-      
+    <table/> 
     <blockquote> Responsive Table </blockquote>
 
 
