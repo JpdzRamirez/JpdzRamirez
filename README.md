@@ -76,9 +76,8 @@
   
   
   
-![snake gif](https://github.com/JpdzRamirez/JpdzRamirez/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/JpdzRamirez/JpdzRamirez/blob/output/github-contribution-grid-snake-dark.svg)
   
- 
   <div align="center" class="more_about">
        <a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content">More about me</a>
       <div align="left" class="itro">
