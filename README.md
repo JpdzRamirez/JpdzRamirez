@@ -76,7 +76,7 @@
   
   
   
-![snake animation](https://github.com/Jhonierk/Jhonierk/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/JpdzRamirez/JpdzRamirez/blob/output/github-contribution-grid-snake.gif)
   
  
   <div align="center" class="more_about">
