@@ -91,8 +91,8 @@
 
 **** 
 
-<p> I am currently a junior backend developer in Java and C # under the Freelance modality </p>. 
-I am also a Technologist in Administrative Management, Systems Technician with four years of experience. 
+<p> I am currently a junior FullStack developer in PHP LARAVEL and C # XAMARIN </p>. 
+I am also a Software and Data Engineering Student, a Technologist in Software Analysis and Development, and a Systems Technician with seven years of experience.
 I have been guiding my career for some time to solve various problems within organizations regarding the administration <br> of their resources, information and financial systems. Creating tools and implementing new technologies to optimize companies with growth potential. <br>
 <br>
 <em>"I have related the proactivity and effectiveness of programming in all kinds of solutions and I am passionate about what I can achieve with it"</em> </p>
@@ -111,21 +111,16 @@ I have been guiding my career for some time to solve various problems within org
  
  ### 🔭 I’m currently working on ... 
  <ul>
-  <li><a href="https://github.com/JpdzRamirez/WebServices/tree/main/Crud%20and%20CV/laravel"> 
- Laravel CRUD👉📎🖱 </a></li>
-  <li><a href="https://github.com/JpdzRamirez/WebServices/tree/main/Crud%20and%20CV/Landing"> 
- LANDING PAGE . WORKING...🛠👉📎🖱 </a></li>
+  <li><a href="[https://github.com/JpdzRamirez/WebServices/tree/main/Crud%20and%20CV/laravel](https://github.com/JpdzRamirez/JAdmin)"> 
+ CRM FOR Hotels and Restaurant👉📎🖱 </a></li>
+  <li><a href="[https://github.com/JpdzRamirez/WebServices/tree/main/Crud%20and%20CV/Landing](https://github.com/JpdzRamirez/hv-component-app)"> 
+ My WebSite . WORKING...🛠👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/PHP"> 
  PHP, MYSQL Development👉📎🖱 </a></li>
-   <li><a href="https://github.com/JpdzRamirez/boilerplate-npm"> 
- APIs and Microservices , Node and Express, MongoDB👉📎🖱 </a></li>
-   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/JAVA/BackEnd%20ARQ%20Transactional%20JAVA"> 
- Backend JUNIT testing in Dependent Projects with JAVA 👉📎🖱 </a></li>
-  <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/VisualBasic"> 
- Building Advanced Excel´s projects in Visual Basic  👉📎🖱 </a></li>
-  <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/JAVA/Spring%20Boot%20MVC%20arquitecture"> 
- Creation of Spring BOOT proyects in JAVA with arquitecture MVC 💚👉📎🖱 </a></li>
- 
+   <li><a href="https://github.com/JpdzRamirez/crudReact"> 
+ APIs CRUD and Microservices & ROUTERS , REACT👉📎🖱 </a></li>
+   <li><a href="#"> 
+ Backend PHPUNIT testing in Dependent Projects with LARAVEL PRIVATE 👉📎🖱 </a></li>
   
 </ul>  
 
@@ -133,8 +128,16 @@ I have been guiding my career for some time to solve various problems within org
 
 <p> <em>In the present algorithm development, the meta search for character strings and keywords was achieved in a matrix system with N-iterations.</em> </p>
 <ul>
-   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/VisualBasic/Bases%20de%20Datos/Libros%20Excel/FUID%20UIS%20ARCHIVO"> 
-     Santander Industrial University<strong> Archival Division</strong> on Visual Basic 👉📎🖱 </a></li>
+   <li><a href="#"> 
+     CRM Financiera CAHORS <strong> AUTOFACTURA</strong> on LARAVEL <i> Comming soon...</i> 👉📎🖱 </a></li>
+   <li><a href="#"> 
+     CRM Taxsur GPS<strong> GEOlocation </strong> on LARAVEL <i> Comming soon...</i> 👉📎🖱 </a></li>
+   <li><a href="#"> 
+     CRM Taxsur <strong> FRON-END REDESIGN </strong> on LARAVEL <i> Comming soon...</i> 👉📎🖱 </a></li>
+   <li><a href="#"> 
+     CRM Taxsur <strong> DASHBOARD PANEL </strong> on LARAVEL private <i> Comming soon...</i> 👉📎🖱 </a></li>
+   <li><a href="https://github.com/JpdzRamirez/Arintia-Servicios"> 
+     WEB Site Arintia Group <strong> Microservicios </strong> on LARAVEL private <i> Comming soon...</i> 👉📎🖱 </a></li>
 </ul>  
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
