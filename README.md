@@ -224,6 +224,9 @@ I have been guiding my career for some time to solve various problems within org
 			  <li>Notifications & Mail</li>
 			  <li>File Storage</li>
 			  <li>Authetication & Authorization</li>
+			  <li>OA2</li>
+			  <li>SMTP</li>
+			  <li>Livewire</li>
 		  </ul>
 	  </td>
           <td wrap="hard">
@@ -233,6 +236,7 @@ I have been guiding my career for some time to solve various problems within org
 			  <li><img height="20" src="https://www.otwo.jp/blog/wp-content/uploads/2022/05/dompdf_main.png"></li>
 			  <li><img height="20" src="https://madewithnetworkfra.fra1.digitaloceanspaces.com/spatie-space-production/13051/ziggy-2.jpg"></li>
 			  <li><img height="20" src="https://i0.wp.com/www.latirus.com/blog/wp-content/uploads/2020/09/laravel-livewire.png?fit=2220%2C1125&ssl=1"></li>
+			  <li><img height="20" src="https://codersfree.nyc3.cdn.digitaloceanspaces.com/posts/laravel-livewire-14-consejos-y-trucos.jpg"></li>
 		  </ul> 
 	  </td>
         </tr>
