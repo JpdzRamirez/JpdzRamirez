@@ -206,7 +206,7 @@ I have been guiding my career for some time to solve various problems within org
         <tr>
           <td>
 		<img height="20" src="https://www.svgrepo.com/show/353985/laravel.svg">
-		Laravel 9
+		Laravel 7,8 -> 11
 	  </td>
           <td>
 		  <ul>
@@ -230,9 +230,30 @@ I have been guiding my career for some time to solve various problems within org
 			  <li><img height="20" src="https://www.otwo.jp/blog/wp-content/uploads/2022/05/dompdf_main.png"></li>
 			  <li><img height="20" src="https://madewithnetworkfra.fra1.digitaloceanspaces.com/spatie-space-production/13051/ziggy-2.jpg"></li>
 			  <li><img height="20" src="https://i0.wp.com/www.latirus.com/blog/wp-content/uploads/2020/09/laravel-livewire.png?fit=2220%2C1125&ssl=1"></li>
-		  </ul> 	  
+		  </ul> 
 	  </td>
         </tr>
+	<tr>
+	<td>
+		<img height="20" src="https://blogs.masterhacks.net/wp-content/uploads/2019/10/masterhacks_php_vulnerabilidad_fpm_nginx.png">
+		PHP
+	  </td>
+	<td wrap="hard">
+		  <ul style="list-style:none;">
+			  <li>SOLID</li>
+			  <li>MVC</li>
+			  <li>API REST</li>
+			  <li>DIAN</li>
+		  </ul> 
+	 </td>
+	<td wrap="hard">
+		  <ul>
+			  <li><img height="20" src="https://www.comerline.es/wp-content/uploads/2022/04/1XOMTPWTpDLypkp079p9XXg-970x686.png"></li>
+			  <li><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyUF_NabZxblxlAp2ZtVVV6qJvGCLWy8fzLw&s"></li>
+			  <li><img height="20" src="https://media.licdn.com/dms/image/D4D12AQGymHTub6RIRw/article-cover_image-shrink_720_1280/0/1700972779305?e=2147483647&v=beta&t=eE32UCGTtZgdiOp51B40yYDhZx9-pzRtPfHN6QcMd8o"></li>
+		  </ul>
+	 </td>
+	</tr>
       </tbody>
     <table/> 
     <blockquote> Responsive Table </blockquote>
