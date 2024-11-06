@@ -69,8 +69,8 @@
       <source srcset="/assets/manz.webp">
 
    <a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content">
-  
-<img align="center" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/d132e4cf-1d1e-42f9-a09a-327e292101e9" width="200" href="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/d132e4cf-1d1e-42f9-a09a-327e292101e9" />
+
+<img align="center" src="https://github.com/user-attachments/assets/137b4fdb-004f-46c1-a1ec-f8a7f149eaac" width="200" href="https://github.com/user-attachments/assets/137b4fdb-004f-46c1-a1ec-f8a7f149eaac" />
 </a>
     </picture>
   
