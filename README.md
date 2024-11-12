@@ -111,16 +111,16 @@ I have been guiding my career for some time to solve various problems within org
  
  ### 🔭 I’m currently working on ... 
  <ul>
-  <li><a href="[https://github.com/JpdzRamirez/WebServices/tree/main/Crud%20and%20CV/laravel](https://github.com/JpdzRamirez/JAdmin)"> 
+  <li><a href="https://github.com/JpdzRamirez/JAdmin"> 
  CRM FOR Hotels and Restaurant👉📎🖱 </a></li>
-  <li><a href="[https://github.com/JpdzRamirez/WebServices/tree/main/Crud%20and%20CV/Landing](https://github.com/JpdzRamirez/hv-component-app)"> 
+  <li><a href="https://github.com/JpdzRamirez/hv-component-app"> 
  My WebSite . WORKING...🛠👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/PHP"> 
  PHP, MYSQL Development👉📎🖱 </a></li>
-   <li><a href="https://github.com/JpdzRamirez/crudReact"> 
+   <li><a href="https://github.com/JpdzRamirez/react-proyect-app"> 
  APIs CRUD and Microservices & ROUTERS , REACT👉📎🖱 </a></li>
    <li><a href="#"> 
- Backend PHPUNIT testing in Dependent Projects with LARAVEL PRIVATE 👉📎🖱 </a></li>
+ Backend PHPUNIT testing in Dependent Projects with LARAVEL, PRIVATE 👉📎🖱 </a></li>
   
 </ul>  
 
@@ -129,9 +129,9 @@ I have been guiding my career for some time to solve various problems within org
 <p> <em>In the present algorithm development, the meta search for character strings and keywords was achieved in a matrix system with N-iterations.</em> </p>
 <ul>
    <li><a href="https://github.com/JpdzRamirez/AutofacturaDian"> 
-     CRM Financiera CAHORS <strong> AUTOFACTURA</strong> on LARAVEL <i> Uploaded✅</i> 👉📎🖱 </a> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hhdzkxdXJsamczdzExZDI1bHdrcGY3ZXFzajBxNTQ1OGd1eXVwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" width="55"></li>
+     CRM AUTOFACTURA <strong> AUTOFACTURA</strong> on LARAVEL <i> Uploaded✅</i> 👉📎🖱 </a> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hhdzkxdXJsamczdzExZDI1bHdrcGY3ZXFzajBxNTQ1OGd1eXVwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" width="55"></li>
    <li><a href="#"> 
-     CRM Taxsur GPS<strong> GEOlocation </strong> on LARAVEL <i> Comming soon...</i> 👉📎🖱 </a></li>
+     CRM COMPANY GPS<strong> GEOlocation </strong> on LARAVEL <i> Uploaded✅...</i> 👉📎🖱 </a><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xkejBzbzdrc2w1dHN0NjkxcnhxMDV0MDFpcGI4YjNpMzFhN2Y3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CNHwfdaHPNYQPzAIoS/giphy.webp" width="55"></li>
    <li><a href="#"> 
      CRM Taxsur <strong> FRON-END REDESIGN </strong> on LARAVEL <i> Comming soon...</i> 👉📎🖱 </a></li>
    <li><a href="#"> 
