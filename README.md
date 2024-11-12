@@ -133,9 +133,7 @@ I have been guiding my career for some time to solve various problems within org
    <li><a href="#"> 
      CRM COMPANY GPS<strong> GEOlocation </strong> on LARAVEL <i> Uploaded✅...</i> 👉📎🖱 </a><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xkejBzbzdrc2w1dHN0NjkxcnhxMDV0MDFpcGI4YjNpMzFhN2Y3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CNHwfdaHPNYQPzAIoS/giphy.webp" width="55"></li>
    <li><a href="#"> 
-     CRM Taxsur <strong> FRON-END REDESIGN </strong> on LARAVEL <i> Comming soon...</i> 👉📎🖱 </a></li>
-   <li><a href="#"> 
-     CRM Taxsur <strong> DASHBOARD PANEL </strong> on LARAVEL private <i> Comming soon...</i> 👉📎🖱 </a></li>
+     CRM  <strong> FRON-END REDESIGN </strong> on LARAVEL <i> Comming soon...</i> 👉📎🖱 </a></li>
    <li><a href="https://github.com/JpdzRamirez/Arintia-Servicios"> 
      WEB Site Arintia Group <strong> Microservicios </strong> on LARAVEL private <i> Comming soon...</i> 👉📎🖱 </a></li>
 </ul>  
