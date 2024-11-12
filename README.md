@@ -135,7 +135,7 @@ I have been guiding my career for some time to solve various problems within org
    <li><a href="#"> 
      CRM  <strong> FRON-END REDESIGN </strong> on LARAVEL <i> Comming soon...</i> 👉📎🖱 </a></li>
    <li><a href="https://github.com/JpdzRamirez/Arintia-Servicios"> 
-     WEB Site Arintia Group <strong> Microservicios </strong> on LARAVEL private <i> Comming soon...</i> 👉📎🖱 </a></li>
+     WEB Site Arintia Group <strong> Microservicios </strong> on LARAVEL private <i> Uploaded✅...</i> 👉📎🖱 </a></li>
 </ul>  
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
