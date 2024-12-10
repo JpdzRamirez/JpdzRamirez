@@ -113,6 +113,8 @@ I have been guiding my career for some time to solve various problems within org
  <ul>
   <li><a href="https://github.com/JpdzRamirez/JAdmin"> 
  CRM FOR Hotels and Restaurant👉📎🖱 </a></li>
+<li><a href="https://github.com/JpdzRamirez/Cibersecurity"> 
+ Cibersecurity LAB 👩‍💻t👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/hv-component-app"> 
  My WebSite . WORKING...🛠👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/PHP"> 
