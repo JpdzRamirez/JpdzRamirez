@@ -112,7 +112,11 @@ I have been guiding my career for some time to solve various problems within org
  ### 🔭 I’m currently working on ... 
  <ul>
   <li><a href="https://github.com/JpdzRamirez/JAdmin"> 
- CRM FOR Hotels and Restaurant👉📎🖱 </a></li>
+ CRM Psychological Software👉📎🖱 </a></li>
+<li><a href="https://github.com/JpdzRamirez/JADMIN-Financial"> 
+ CRM Financial Software🧮👉📎🖱 </a></li>
+<li><a href="https://github.com/JpdzRamirez/JADMIN-Services"> 
+ CRM Services Software👉📎🖱 </a></li>
 <li><a href="https://github.com/JpdzRamirez/Cibersecurity"> 
  Cibersecurity LAB 👩‍💻t👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/hv-component-app"> 
