@@ -1,5 +1,4 @@
 
-
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><img src="https://media.giphy.com/media/xUA7bawPmP2gglnzR6/giphy.gif" width="25">
 
 
@@ -53,12 +52,12 @@
 <div align="center"><br>
   <img align="center" alt="Laravel 9" height="30" width="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/ba984d51-7f2c-450e-b0e6-6419b2ca3071">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://blogs.masterhacks.net/wp-content/uploads/2019/10/masterhacks_php_vulnerabilidad_fpm_nginx.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="SCSS" height="30" width="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/d918ce1a-1d08-45b7-83eb-855fb642f423">
+  <img align="center" alt="XAMARIN" height="30" width="40" src="https://e7.pngegg.com/pngimages/304/124/png-clipart-xamarin-android-cross-platform-native-studio-blue-angle.png">
+  <img align="center" alt="LiveWire" height="30" width="40" src="https://www.iocod.com/section/stack/Livewire.webp">
   
 </div>
 
@@ -136,7 +135,7 @@ I have been guiding my career for some time to solve various problems within org
 <ul>
    <li><a href="https://github.com/JpdzRamirez/AutofacturaDian"> 
      CRM AUTOFACTURA <strong> AUTOFACTURA</strong> on LARAVEL <i> Uploaded✅</i> 👉📎🖱 </a> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hhdzkxdXJsamczdzExZDI1bHdrcGY3ZXFzajBxNTQ1OGd1eXVwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" width="55"></li>
-   <li><a href="[#](https://github.com/JpdzRamirez/GeolocationService)"> 
+   <li><a href="https://github.com/JpdzRamirez/GeolocationService"> 
      CRM COMPANY GPS<strong> GEOlocation </strong> on LARAVEL <i> Uploaded✅...</i> 👉📎🖱 </a><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xkejBzbzdrc2w1dHN0NjkxcnhxMDV0MDFpcGI4YjNpMzFhN2Y3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CNHwfdaHPNYQPzAIoS/giphy.webp" width="55"></li>
    <li><a href="#"> 
      CRM  <strong> FRON-END REDESIGN </strong> on LARAVEL <i> Comming soon...</i> 👉📎🖱 </a></li>
@@ -144,12 +143,25 @@ I have been guiding my career for some time to solve various problems within org
      WEB Site Arintia Group <strong> Microservicios </strong> on LARAVEL private <i> Uploaded✅...</i> 👉📎🖱 </a></li>
 </ul>  
 <!-- Technical Skills -->
-<p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
-  
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png"></code>
+<p><H3 align="center"><strong>Strong Technical Skills: 💻 </strong></p>
+
+     
+  <code><img height="50" src="https://www.ciset.es/images/Glosario/mysql.png" alt="Mysql"></code>
+  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/9f6b87f1-3c18-4d91-8f35-faaba37d3d42"></code>
+  <code><img height="40" src="https://blogs.masterhacks.net/wp-content/uploads/2019/10/masterhacks_php_vulnerabilidad_fpm_nginx.png" alt="PHP"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code> 
+  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/d918ce1a-1d08-45b7-83eb-855fb642f423" alt="SCSS"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png" alt="Javascript"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/66846214/135279399-d2269c00-eb0e-43a2-9055-0fbdc1c3ec84.png" alt="GIT"></code> 
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Phyton"></code>  
+  <br>
+  <code><img height="40" src="https://user-images.githubusercontent.com/66846214/135279462-ea26d960-b2b7-42b6-90a2-0bb7fc5ae943.png" alt="Laravel"></code>
+  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/833a220a-73dc-4773-8f3b-6de30f47f8db" alt="REACT"></code>
+  <code><img height="40" src="https://www.iocod.com/section/stack/Livewire.webp" alt="Livewire"></code>
+  <br>
+  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/6044d958-6d78-4dc2-8856-2d920454cdf1" alt="google-It"></code>
+  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/0b261538-77ab-40e8-bc8c-3bb15eac587d" alt="google-cibersecurity"></code>
+  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/e772b107-ea7d-4588-8037-5bab5139b9b8" alt="google-dataAnalysis"></code>  
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100307358-3c068b00-2f6b-11eb-9f07-e262ad248471.png"></code>
@@ -162,30 +174,19 @@ I have been guiding my career for some time to solve various problems within org
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688226-c6ff1200-0bc5-11eb-82cc-33e35bcb0910.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/66846214/135279462-ea26d960-b2b7-42b6-90a2-0bb7fc5ae943.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/66846214/135279239-149c6db6-8b11-42c9-8b0d-dd2aeba6d650.jpg"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/66846214/135279336-2c4ab718-eac2-4874-bdd5-6eeba13446c1.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/66846214/135279399-d2269c00-eb0e-43a2-9055-0fbdc1c3ec84.png"></code>
-  
-  </p>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>  
   
 &nbsp;  
 
   <!-- Skills to learn -->
-<p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
-  
-  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/6044d958-6d78-4dc2-8856-2d920454cdf1"></code>
-  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/d918ce1a-1d08-45b7-83eb-855fb642f423"></code>
-  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/9f6b87f1-3c18-4d91-8f35-faaba37d3d42"></code>  
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/e772b107-ea7d-4588-8037-5bab5139b9b8"></code>
-  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/0b261538-77ab-40e8-bc8c-3bb15eac587d"></code>
-    <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/833a220a-73dc-4773-8f3b-6de30f47f8db"></code>
-  
-  </p>
+<p><H3 align="center"><strong>Ongoing Learning: 🌐</strong></p>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1200px-SAP_2011_logo.svg.png" alt="SAP"></code>
+<code><img height="40" src="https://www.masip.es/wp-content/uploads/2020/08/aws-logo-1200x900.png" alt="Amazon-Web-Services"></code>
+<code><img height="40" src="https://1000marcas.net/wp-content/uploads/2021/05/Logo-Google-Cloud.png" alt="Google-Cloud"></code>
+<code><img height="40" src="https://images.credly.com/images/5a53000d-fed4-4877-b17d-d769a50eeb4e/image.png" alt="IBM-FULLSTACK"></code>
+</p>
 &nbsp;
-## My Focus To learn  🎯
+#My next focus  🎯
 
 <p align="center">
   
@@ -267,15 +268,48 @@ I have been guiding my career for some time to solve various problems within org
 	</tr>
       </tbody>
     <table/> 
-    <blockquote> Responsive Table </blockquote>
 
 
-
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-
-
-<!--END_SECTION:waka-->
+🗜 **This week I spent my time on**
+<!--START_SECTION:Networks-->
+Knowledge of networks and telematics
+📘🤓<br>
+<a align="center" href="https://docs.google.com/document/d/1qUMpVLYEFEovw3q4FTsbViOx2we3l4wju1JgX-Xl2zY/edit?usp=sharing"> 
+ Documentation👉📎🖱 </a><br>
+  <div align="center"">
+    <img width="500px" src="https://github.com/user-attachments/assets/110e3009-a09d-42a7-b609-32860739180a" />
+    </div>
+<!--END_SECTION:Networks-->
+<br>
+<!--START_SECTION:TERMINAL-Command-->
+Knowledge of BASH Termianl and Poswershell / Command Prompt
+📘🤓<br>
+<a align="center" href="https://docs.google.com/document/d/1f8T8F7kpHmtwDHL926BlBoJAutvsFxO9uKsIFl6kJjg/edit?usp=sharing"> 
+ Documentation👉📎🖱 </a><br>
+  <div align="center"">
+    <img width="500px" src="https://github.com/user-attachments/assets/2759cc35-f5b8-41d2-aea2-0824f25f08cc" />
+    </div>
+<!--END_SECTION:TERMINAL-Command-->
+<br>
+<!--START_SECTION:Data Transfer-->
+Knowledge of SSH-SFTP DATA TRANSFER
+📘🤓<br>
+<a align="center" href="https://docs.google.com/document/d/1q9RtwjpS_3lDSw2Lj5txtqoNu8L-T7LFc7xooaOZ6Hk/edit?usp=sharing"> 
+ Documentation👉📎🖱 </a><br>
+  <div align="center"">
+    <img width="500px" src="https://github.com/user-attachments/assets/44324afa-6f6a-45ec-8ff0-ff9cff3c9f15" />
+    </div>
+<!--END_SECTION:Data Transfer-->
+<br>
+<!--START_SECTION:Terminal Commands-->
+Knowledge of Terminal Basic Commands
+📘🤓<br>
+<a align="center" href="https://docs.google.com/document/d/1mgIzF3TdoBrwLQcB2leYZ9DKsIdVgWRfCcX_GlT_VGU/edit?usp=sharing"> 
+ Documentation👉📎🖱 </a><br>
+  <div align="center"">
+    <img width="500px" src="https://fastestvpn.com/blog/wp-content/uploads/2024/03/List-of-Command-Prompt-CMD-900.png" />
+    </div>
+<!--END_SECTION:Terminal Commands-->
 <br>
 
  <details>
