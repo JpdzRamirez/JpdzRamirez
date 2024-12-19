@@ -1,7 +1,6 @@
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><img src="https://media.giphy.com/media/xUA7bawPmP2gglnzR6/giphy.gif" width="25">
 
-
   
 <a href="https://discord.gg/tEFCyJt3">
   <img align="left" alt="Jeremy's | Twitter" width="22" src="https://www.svgrepo.com/show/452188/discord.svg" />
@@ -48,6 +47,9 @@
        src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
   </a>
 </h1>
+<div align="center" style="position: absolute;">
+<img align="center" bgcolor="white" src="https://github.com/user-attachments/assets/e9a1b994-6a83-4f43-8a5e-0bac560ee17c" width="500">	
+</div>
 
 <div align="center"><br>
   <img align="center" alt="Laravel 9" height="30" width="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/ba984d51-7f2c-450e-b0e6-6419b2ca3071">
@@ -68,17 +70,17 @@
       <source srcset="/assets/manz.webp">
 
    <a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content">
-
-<img align="center" src="https://github.com/user-attachments/assets/137b4fdb-004f-46c1-a1ec-f8a7f149eaac" width="200" href="https://github.com/user-attachments/assets/137b4fdb-004f-46c1-a1ec-f8a7f149eaac" />
 </a>
     </picture>
   
   
   
 ![snake gif](https://github.com/JpdzRamirez/JpdzRamirez/blob/output/github-contribution-grid-snake-dark.svg)
+
   
   <div align="center" class="more_about">
-       <a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content">More about me</a>
+	  <h2><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content" style="text-decoration: none;"><img src="https://cdn.pixabay.com/animation/2024/01/10/01/47/01-47-16-330_512.gif" width="150"/>More about</a></h2>  
+	  <br>
       <div align="left" class="itro">
       <p><strong>Hello there I am Jeremy Pedraza, expert in computer and related systems; Counting on the experience and trajectory needed to solve problems at the Front Office and Back Office of any company. this is my introduction</strong></p>
          </div>
