@@ -92,7 +92,7 @@
 
 **** 
 
-<p> I am currently a junior FullStack developer in PHP LARAVEL and C # XAMARIN </p>. 
+<p> I am currently a FullStack developer in PHP LARAVEL and C # XAMARIN </p>. 
 I am also a Software and Data Engineering Student, a Technologist in Software Analysis and Development, and a Systems Technician with seven years of experience.
 I have been guiding my career for some time to solve various problems within organizations regarding the administration <br> of their resources, information and financial systems. Creating tools and implementing new technologies to optimize companies with growth potential. <br>
 <br>
