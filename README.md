@@ -273,6 +273,10 @@ I have been guiding my career for some time to solve various problems within org
 
 
 🗜 **This week I spent my time on**
+<div align="center">
+<img src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif" width="300"/>	
+</div>
+<br>
 <table border="1" cellspacing="0" cellpadding="5" align="center">
   <thead>
     <tr>
