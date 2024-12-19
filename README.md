@@ -271,45 +271,66 @@ I have been guiding my career for some time to solve various problems within org
 
 
 🗜 **This week I spent my time on**
-<!--START_SECTION:Networks-->
-Knowledge of networks and telematics
-📘🤓<br>
-<a align="center" href="https://docs.google.com/document/d/1qUMpVLYEFEovw3q4FTsbViOx2we3l4wju1JgX-Xl2zY/edit?usp=sharing"> 
- Documentation👉📎🖱 </a><br>
-  <div align="center"">
-    <img width="500px" src="https://github.com/user-attachments/assets/110e3009-a09d-42a7-b609-32860739180a" />
-    </div>
-<!--END_SECTION:Networks-->
-<br>
-<!--START_SECTION:TERMINAL-Command-->
-Knowledge of BASH Termianl and Poswershell / Command Prompt
-📘🤓<br>
-<a align="center" href="https://docs.google.com/document/d/1f8T8F7kpHmtwDHL926BlBoJAutvsFxO9uKsIFl6kJjg/edit?usp=sharing"> 
- Documentation👉📎🖱 </a><br>
-  <div align="center"">
-    <img width="500px" src="https://github.com/user-attachments/assets/2759cc35-f5b8-41d2-aea2-0824f25f08cc" />
-    </div>
-<!--END_SECTION:TERMINAL-Command-->
-<br>
-<!--START_SECTION:Data Transfer-->
-Knowledge of SSH-SFTP DATA TRANSFER
-📘🤓<br>
-<a align="center" href="https://docs.google.com/document/d/1q9RtwjpS_3lDSw2Lj5txtqoNu8L-T7LFc7xooaOZ6Hk/edit?usp=sharing"> 
- Documentation👉📎🖱 </a><br>
-  <div align="center"">
-    <img width="500px" src="https://github.com/user-attachments/assets/44324afa-6f6a-45ec-8ff0-ff9cff3c9f15" />
-    </div>
-<!--END_SECTION:Data Transfer-->
-<br>
-<!--START_SECTION:Terminal Commands-->
-Knowledge of Terminal Basic Commands
-📘🤓<br>
-<a align="center" href="https://docs.google.com/document/d/1mgIzF3TdoBrwLQcB2leYZ9DKsIdVgWRfCcX_GlT_VGU/edit?usp=sharing"> 
- Documentation👉📎🖱 </a><br>
-  <div align="center"">
-    <img width="500px" src="https://fastestvpn.com/blog/wp-content/uploads/2024/03/List-of-Command-Prompt-CMD-900.png" />
-    </div>
-<!--END_SECTION:Terminal Commands-->
+<table border="1" cellspacing="0" cellpadding="5" align="center">
+  <thead>
+    <tr>
+      <th>Knowledge</th>
+      <th>Documentation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Cloud Computing Model</td>
+      <td>
+        <details>
+          <summary>View More 📘🤓</summary>
+          <a href="https://www.canva.com/design/DAGXbTLEsWw/kVurjVnRicv68HGwTvkniQ/edit?utm_content=DAGXbTLEsWw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Documentation👉📎🖱</a><br>
+          <img width="500px" src="https://github.com/user-attachments/assets/49f31a01-2ea3-4551-b52c-2c4194a0f9a2" alt="Network Knowledge Image">
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>Networks and Telematics</td>
+      <td>
+        <details>
+          <summary>View More 📘🤓</summary>
+          <a href="https://docs.google.com/document/d/1qUMpVLYEFEovw3q4FTsbViOx2we3l4wju1JgX-Xl2zY/edit?usp=sharing">Documentation👉📎🖱</a><br>
+          <img width="500px" src="https://github.com/user-attachments/assets/110e3009-a09d-42a7-b609-32860739180a" alt="Network Knowledge Image">
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>BASH Terminal and Powershell / Command Prompt</td>
+      <td>
+        <details>
+          <summary>View More 📘🤓</summary>
+          <a href="https://docs.google.com/document/d/1f8T8F7kpHmtwDHL926BlBoJAutvsFxO9uKsIFl6kJjg/edit?usp=sharing">Documentation👉📎🖱</a><br>
+          <img width="500px" src="https://github.com/user-attachments/assets/2759cc35-f5b8-41d2-aea2-0824f25f08cc" alt="Terminal Knowledge Image">
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>SSH-SFTP DATA TRANSFER</td>
+      <td>
+        <details>
+          <summary>View More 📘🤓</summary>
+          <a href="https://docs.google.com/document/d/1q9RtwjpS_3lDSw2Lj5txtqoNu8L-T7LFc7xooaOZ6Hk/edit?usp=sharing">Documentation👉📎🖱</a><br>
+          <img width="500px" src="https://github.com/user-attachments/assets/44324afa-6f6a-45ec-8ff0-ff9cff3c9f15" alt="Data Transfer Knowledge Image">
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>Terminal Basic Commands</td>
+      <td>
+        <details>
+          <summary>View More 📘🤓</summary>
+          <a href="https://docs.google.com/document/d/1mgIzF3TdoBrwLQcB2leYZ9DKsIdVgWRfCcX_GlT_VGU/edit?usp=sharing">Documentation👉📎🖱</a><br>
+          <img width="500px" src="https://fastestvpn.com/blog/wp-content/uploads/2024/03/List-of-Command-Prompt-CMD-900.png" alt="Terminal Commands Knowledge Image">
+        </details>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <br>
 
  <details>
