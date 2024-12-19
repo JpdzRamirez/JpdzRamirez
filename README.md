@@ -282,12 +282,22 @@ I have been guiding my career for some time to solve various problems within org
   </thead>
   <tbody>
     <tr>
+      <td>AWS Identity and access Management ( IAM)</td>
+      <td>
+        <details>
+          <summary>View More 📘🤓</summary>
+          <a href="https://www.canva.com/design/DAGZsGWRc8g/onNBbR7ZvB5XcgaUeoWjCA/edit?utm_content=DAGZsGWRc8g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Documentation👉📎🖱</a><br>
+          <img width="500px" src="https://github.com/user-attachments/assets/21361c96-c104-445b-a2c0-798ca7a9c87a" alt="IAM SECURITY">
+        </details>
+      </td>
+    </tr>
+    <tr>
       <td>Cloud Computing Model</td>
       <td>
         <details>
           <summary>View More 📘🤓</summary>
           <a href="https://www.canva.com/design/DAGXbTLEsWw/kVurjVnRicv68HGwTvkniQ/edit?utm_content=DAGXbTLEsWw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Documentation👉📎🖱</a><br>
-          <img width="500px" src="https://github.com/user-attachments/assets/49f31a01-2ea3-4551-b52c-2c4194a0f9a2" alt="Network Knowledge Image">
+          <img width="500px" src="https://github.com/user-attachments/assets/49f31a01-2ea3-4551-b52c-2c4194a0f9a2" alt="Cloud Computing Model">
         </details>
       </td>
     </tr>
