@@ -114,10 +114,6 @@ I have been guiding my career for some time to solve various problems within org
  <ul>
   <li><a href="https://github.com/JpdzRamirez/JAdmin"> 
  CRM Psychological Software👉📎🖱 </a></li>
-<li><a href="https://github.com/JpdzRamirez/JADMIN-Financial"> 
- CRM Financial Software🧮👉📎🖱 </a></li>
-<li><a href="https://github.com/JpdzRamirez/JADMIN-Services"> 
- CRM Services Software👉📎🖱 </a></li>
 <li><a href="https://github.com/JpdzRamirez/Cibersecurity"> 
  Cibersecurity LAB 👩‍💻t👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/hv-component-app"> 
@@ -135,6 +131,10 @@ I have been guiding my career for some time to solve various problems within org
 
 <p> <em>In the present algorithm development, the meta search for character strings and keywords was achieved in a matrix system with N-iterations.</em> </p>
 <ul>
+<li><a href="https://github.com/JpdzRamirez/JADMIN-Financial"> 
+ CRM Financial Software🧮👉📎🖱 </a></li>
+<li><a href="https://github.com/JpdzRamirez/JADMIN-Services"> 
+ CRM Services Software👉📎🖱 </a></li>
    <li><a href="https://github.com/JpdzRamirez/AutofacturaDian"> 
      CRM AUTOFACTURA <strong> AUTOFACTURA</strong> on LARAVEL <i> Uploaded✅</i> 👉📎🖱 </a> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hhdzkxdXJsamczdzExZDI1bHdrcGY3ZXFzajBxNTQ1OGd1eXVwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" width="55"></li>
    <li><a href="https://github.com/JpdzRamirez/GeolocationService"> 
