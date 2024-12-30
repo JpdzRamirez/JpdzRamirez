@@ -133,6 +133,8 @@ I have been guiding my career for some time to solve various problems within org
 
 <p> <em>In the present algorithm development, the meta search for character strings and keywords was achieved in a matrix system with N-iterations.</em> </p>
 <ul>
+<li><a href="https://github.com/JpdzRamirez/Softlogy-Helpdesk/tree/main"> 
+ Softlogy Helpdesk Integration🧮👉📎🖱 </a></li>
 <li><a href="https://github.com/JpdzRamirez/JADMIN-Financial"> 
  CRM Financial Software🧮👉📎🖱 </a></li>
 <li><a href="https://github.com/JpdzRamirez/JADMIN-Services"> 
