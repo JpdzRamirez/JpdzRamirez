@@ -112,6 +112,8 @@ I have been guiding my career for some time to solve various problems within org
  
  ### 🔭 I’m currently working on ... 
  <ul>
+  <li><a href="https://github.com/JpdzRamirez/softlogy-mobile-APP/tree/main"> 
+ Softlogyc Mobile App Helpdesk 👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/JAdmin"> 
  CRM Psychological Software👉📎🖱 </a></li>
 <li><a href="https://github.com/JpdzRamirez/Cibersecurity"> 
