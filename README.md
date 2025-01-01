@@ -147,6 +147,12 @@ I have been guiding my career for some time to solve various problems within org
      CRM  <strong> FRON-END REDESIGN </strong> on LARAVEL <i> Comming soon...</i> 👉📎🖱 </a></li>
    <li><a href="https://github.com/JpdzRamirez/Arintia-Servicios"> 
      WEB Site Arintia Group <strong> Microservicios </strong> on LARAVEL private <i> Uploaded✅...</i> 👉📎🖱 </a></li>
+   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/JAVA/POO/Proyecto%20JpdzSoft"> 
+       JAVA SWING Desktop Application🧮👉📎🖱 </a></li>
+   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/VisualBasic"> 
+       Visual Basic Desktop Applications🧮👉📎🖱 </a></li>
+   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/JAVA/BackEnd%20ARQ%20Transactional%20JAVA"> 
+       JAVA REST Backend Testing🧮👉📎🖱 </a></li>
 </ul>  
 <!-- Technical Skills -->
 <p><H3 align="center"><strong>Strong Technical Skills: 💻 </strong></p>
