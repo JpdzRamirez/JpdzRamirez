@@ -112,6 +112,8 @@ I have been guiding my career for some time to solve various problems within org
  
  ### 🔭 I’m currently working on ... 
  <ul>
+<li><a href="https://github.com/JpdzRamirez/softlogy-mobile-APP/tree/main"> 
+ Softlogyc API REST Integration for Helpdesk 👉📎🖱 </a> <a href="https://wakatime.com/badge/github/JpdzRamirez/softlogy-generator"><img src="https://wakatime.com/badge/github/JpdzRamirez/softlogy-generator.svg" alt="wakatime"></a></li>
   <li><a href="https://github.com/JpdzRamirez/softlogy-mobile-APP/tree/main"> 
  Softlogyc Mobile App Helpdesk 👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/JAdmin"> 
