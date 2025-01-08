@@ -45,8 +45,9 @@
   </a>
 </h1>
 <div align="center" style="position: absolute;">
-<img align="center" bgcolor="white" src="https://github.com/user-attachments/assets/e9a1b994-6a83-4f43-8a5e-0bac560ee17c" width="500">	
+<img align="center" bgcolor="white" src="https://github.com/user-attachments/assets/8c2dc98f-b543-492f-90ff-763750d5d91b" width="500">	
 </div>
+
 
 <div align="center"><br>
   <img align="center" alt="Laravel 9" height="30" width="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/ba984d51-7f2c-450e-b0e6-6419b2ca3071">
@@ -73,6 +74,10 @@
   
   
 ![snake gif](https://github.com/JpdzRamirez/JpdzRamirez/blob/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center" style="position: absolute;">
+<img align="center" bgcolor="white" src="https://wakatime.com/share/@JPDZSoftware/fbf507a3-c3a9-451b-97a6-83a69fc667d8.svg" width="400">	
+</div>
 
   
   <div align="center" class="more_about">
