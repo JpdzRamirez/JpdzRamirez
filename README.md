@@ -123,7 +123,7 @@ I have been guiding my career for some time to solve various problems within org
 <li><a href="https://github.com/JpdzRamirez/Cibersecurity"> 
  Cibersecurity LAB 👩‍💻t👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/hv-component-app"> 
- My WebSite . WORKING...🛠👉📎🖱 </a></li>
+ My WebSite . WORKING...🛠👉📎🖱 </a><a href="https://wakatime.com/badge/github/JpdzRamirez/hv-component-app"><img src="https://wakatime.com/badge/github/JpdzRamirez/hv-component-app.svg" alt="wakatime"></a></li>
   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/PHP"> 
  PHP, MYSQL Development👉📎🖱 </a></li>
    <li><a href="https://github.com/JpdzRamirez/react-proyect-app"> 
