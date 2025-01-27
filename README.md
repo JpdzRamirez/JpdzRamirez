@@ -76,7 +76,7 @@
 ![snake gif](https://github.com/JpdzRamirez/JpdzRamirez/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center" style="position: absolute;">
-<img align="center" bgcolor="white" src="https://wakatime.com/share/@JPDZSoftware/170ac72c-3d6b-4be6-8250-224ef85c022a.svg" width="400">	
+<img align="center" bgcolor="white" src="https://wakatime.com/share/@JPDZSoftware/f3bbcca6-86e0-44f9-91d1-86a4d7894d0a.svg" width="400">	
 </div>
 
   
