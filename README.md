@@ -50,15 +50,17 @@
 
 
 <div align="center"><br>
+  <img align="center" alt="NestJS" height="30" width="40" src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png">
   <img align="center" alt="Laravel 9" height="30" width="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/ba984d51-7f2c-450e-b0e6-6419b2ca3071">
+  <img align="center" alt="LiveWire" height="30" width="40" src="https://www.iocod.com/section/stack/Livewire.webp">
+  <img align="center" alt="PHP" height="30" width="40" src="https://blogs.masterhacks.net/wp-content/uploads/2019/10/masterhacks_php_vulnerabilidad_fpm_nginx.png">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://www.luisllamas.es/wp-content/uploads/2017/08/node.js_logo.png">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:1000/0*8WNKxK0mDEiFc6MA.png">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://blogs.masterhacks.net/wp-content/uploads/2019/10/masterhacks_php_vulnerabilidad_fpm_nginx.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SCSS" height="30" width="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/d918ce1a-1d08-45b7-83eb-855fb642f423">
   <img align="center" alt="XAMARIN" height="30" width="40" src="https://e7.pngegg.com/pngimages/304/124/png-clipart-xamarin-android-cross-platform-native-studio-blue-angle.png">
-  <img align="center" alt="LiveWire" height="30" width="40" src="https://www.iocod.com/section/stack/Livewire.webp">
-  
 </div>
 
 <!-- Background -->
