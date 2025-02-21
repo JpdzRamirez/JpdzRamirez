@@ -114,14 +114,10 @@ I have been guiding my career for some time to solve various problems within org
  
  ### 🔭 I’m currently working on ... 
  <ul>
-<li><a href="https://github.com/JpdzRamirez/softlogy-generator"> 
- Softlogyc API REST Integration for Helpdesk 👉📎🖱 </a> <a href="https://wakatime.com/badge/github/JpdzRamirez/softlogy-generator"><img src="https://wakatime.com/badge/github/JpdzRamirez/softlogy-generator.svg" alt="wakatime"></a></li>
-  <li><a href="https://github.com/JpdzRamirez/node-JS-api"> 
- Marella API-RESTful App NodeJS 👉📎🖱 </a><a href="https://wakatime.com/badge/user/062a1793-e1d3-43ae-a9d1-452f34a0513c/project/7420189e-519e-4688-920d-22fffbf06f16"><img src="https://wakatime.com/badge/user/062a1793-e1d3-43ae-a9d1-452f34a0513c/project/7420189e-519e-4688-920d-22fffbf06f16.svg" alt="wakatime"></a></li>
+ <li><a href="https://github.com/JpdzRamirez/NestJS-Marela-APIRest.git"> 
+ NestJS APIRestful Marella Mobile APP 👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/JAdmin"> 
  CRM Psychological Software👉📎🖱 </a></li>
-<li><a href="https://github.com/JpdzRamirez/Cibersecurity"> 
- Cibersecurity LAB 👩‍💻t👉📎🖱 </a></li>
   <li><a href="https://github.com/JpdzRamirez/hv-component-app"> 
  My WebSite . WORKING...🛠👉📎🖱 </a><a href="https://wakatime.com/badge/github/JpdzRamirez/hv-component-app"><img src="https://wakatime.com/badge/github/JpdzRamirez/hv-component-app.svg" alt="wakatime"></a></li>
   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/PHP"> 
@@ -137,8 +133,14 @@ I have been guiding my career for some time to solve various problems within org
 
 <p> <em>In the present algorithm development, the meta search for character strings and keywords was achieved in a matrix system with N-iterations.</em> </p>
 <ul>
+<li><a href="https://github.com/JpdzRamirez/softlogy-generator"> 
+ Softlogyc WEB APP PHP-Livewire Integration for Helpdesk 👉📎🖱 </a> <a href="https://wakatime.com/badge/github/JpdzRamirez/softlogy-generator"><img src="https://wakatime.com/badge/github/JpdzRamirez/softlogy-generator.svg" alt="wakatime"></a></li>
+<li><a href="https://github.com/JpdzRamirez/node-JS-api"> 
+ Marella API-RESTful App NodeJS 👉📎🖱 </a><a href="https://wakatime.com/badge/user/062a1793-e1d3-43ae-a9d1-452f34a0513c/project/7420189e-519e-4688-920d-22fffbf06f16"><img src="https://wakatime.com/badge/user/062a1793-e1d3-43ae-a9d1-452f34a0513c/project/7420189e-519e-4688-920d-22fffbf06f16.svg" alt="wakatime"></a></li>
 <li><a href="https://github.com/JpdzRamirez/Softlogy-Helpdesk/tree/main"> 
  Softlogy Helpdesk Integration🧮👉📎🖱 </a></li>
+<li><a href="https://github.com/JpdzRamirez/Cibersecurity"> 
+ Cibersecurity PURE PHP LAB 👩‍💻t👉📎🖱 </a></li>
 <li><a href="https://github.com/JpdzRamirez/JADMIN-Financial"> 
  CRM Financial Software🧮👉📎🖱 </a></li>
 <li><a href="https://github.com/JpdzRamirez/JADMIN-Services"> 
