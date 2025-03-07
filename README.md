@@ -139,9 +139,9 @@ I have been guiding my career for some time to solve various problems within org
  Softlogyc WEB APP PHP-Livewire Integration for Helpdesk 👉📎🖱 </a> <a href="https://wakatime.com/badge/github/JpdzRamirez/softlogy-generator"><img src="https://wakatime.com/badge/github/JpdzRamirez/softlogy-generator.svg" alt="wakatime"></a></li>
 <li><a href="https://github.com/JpdzRamirez/node-JS-api"> 
  Marella API-RESTful App NodeJS 👉📎🖱 </a><a href="https://wakatime.com/badge/user/062a1793-e1d3-43ae-a9d1-452f34a0513c/project/7420189e-519e-4688-920d-22fffbf06f16"><img src="https://wakatime.com/badge/user/062a1793-e1d3-43ae-a9d1-452f34a0513c/project/7420189e-519e-4688-920d-22fffbf06f16.svg" alt="wakatime"></a></li>
-<li><a href="https://github.com/JpdzRamirez/Softlogy-Helpdesk/tree/main"> 
+<li><a href="https://github.com/JpdzRamirez/HelpdeskTemplate"> 
  Helpdesk CRM🧮👉📎🖱 </a></li>
-<li><a href="https://github.com/JpdzRamirez/HelpdeskTemplate/tree/develop"> 
+<li><a href="https://github.com/JpdzRamirez/Cibersecurity"> 
  Cibersecurity PURE PHP LAB 👩‍💻t👉📎🖱 </a></li>
 <li><a href="https://github.com/JpdzRamirez/JADMIN-Financial"> 
  CRM Financial Software🧮👉📎🖱 </a></li>
