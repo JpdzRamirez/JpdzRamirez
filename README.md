@@ -269,7 +269,9 @@ Soy **estudiante de Ingeniería de Software y Datos**, **Tecnólogo en Análisis
 <br/><br/>
 
 <!-- WakaTime coding activity -->
-
+<a href="https://wakatime.com/@JPDZSoftware">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JPDZSoftware&amp;hide_border=true&amp;theme=tokyonight&amp;title_color=00d4ff&amp;bg_color=0b0f1a&amp;layout=compact" alt="wakatime"/>
+</a>
 
 <br/><br/>
 
