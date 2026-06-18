@@ -229,10 +229,11 @@ Soy **estudiante de Ingeniería de Software y Datos**, **Tecnólogo en Análisis
 
 </details>
 
-<details>
-<summary><b>📦 &nbsp;More projects (Standard &amp; Simple)</b></summary>
+<div align="center">
 
-<br/>
+### 📦 Standard &amp; Simple
+
+</div>
 
 | Project | Stack | Description |
 |---|---|---|
@@ -241,8 +242,6 @@ Soy **estudiante de Ingeniería de Software y Datos**, **Tecnólogo en Análisis
 | 🔁 **SyncBill** | TypeScript · Node.js | High-volume batch invoice import app on a scalable architecture. |
 | 🌐 **[Softlogy Portal Web](https://softlogyco.com)** | TS · EJS · CSS | Corporate site for Softlogy S.A.S — POS, e-invoicing &amp; e-payroll products. |
 | 📁 **[Softlogy CORS Repository](https://github.com/JpdzRamirez)** | Shared assets | Public shared-resources repo used as a common dependency across org projects. |
-
-</details>
 
 <div align="center">
 
