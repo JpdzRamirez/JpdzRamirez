@@ -293,7 +293,7 @@ Soy **estudiante de Ingeniería de Software y Datos**, **Tecnólogo en Análisis
 
 ## 🔐 `> credentials --unlock`
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="180" style="object-fit:cover" alt="matrix hacker animation"/>
+<img src="https://images.steamusercontent.com/ugc/939432316730598692/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" width="100%" height="200" style="object-fit:cover; border-radius:10px;" alt="banner"/>
 
 <br/>
 
