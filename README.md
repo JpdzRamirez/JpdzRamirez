@@ -1,446 +1,276 @@
+<!-- ============================================================ -->
+<!--                         HERO BANNER                          -->
+<!-- ============================================================ -->
 
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><img src="https://media.giphy.com/media/xUA7bawPmP2gglnzR6/giphy.gif" width="25">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,30:7928ca,70:00d4ff,100:0b0f1a&height=220&section=header&text=Jeremy%20Pedraza&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=FullStack%20Engineer%20%E2%80%A2%20Laravel%20%E2%80%A2%20NestJS%20%E2%80%A2%20C%23&descSize=18&descAlignY=58&animation=fadeIn" alt="banner"/>
 
-  
-<a href="https://discord.gg/tEFCyJt3">
-  <img align="left" alt="Jeremy's | Twitter" width="22" src="https://www.svgrepo.com/show/452188/discord.svg" />
+<div align="center">
 
+<a href="https://github.com/JpdzRamirez">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=FullStack+Developer+%E2%9A%A1+Laravel+%2B+NestJS;Software+%26+Data+Engineering+Student;7%2B+years+solving+Front+%26+Back+Office+problems;Building+tools+that+optimize+companies" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                         SOCIAL ROW                           -->
+<!-- ============================================================ -->
+
+<a href="https://www.linkedin.com/in/jeremy-pedraza-72824720b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://wa.me/message/ZYPEQZ3HY5PVL1">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+<a href="mailto:jeremyivanpedraza@gmail.com?Subject=Servicios%20de%20Programaci%C3%B3n">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://twitter.com/TechSystemT">
-  <img align="left" alt="Jeremy's | Twitter" width="22" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://discord.gg/tEFCyJt3">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="https://es.stackoverflow.com/users/239041/jeremy-pedraza">
+  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
 </a>
 
+<br/><br/>
 
-<br />
- <!-- Social Network -->
-<h1 align="center">
+<img src="https://komarev.com/ghpvc/?username=JpdzRamirez&style=for-the-badge&color=7928ca&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/JpdzRamirez?style=for-the-badge&color=00d4ff&labelColor=0b0f1a&logo=github" alt="followers"/>
 
-  
-<a href="www.linkedin.com/in/jeremy-pedraza-72824720b/">
-  <img align="center" 
-       alt="Linkdein" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
-  </a>
-
-  <a href="https://www.codegrepper.com/app/profile.php?id=404043">
-  <img align="center" 
-       alt="Grepper" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146498-0b537600-4710-11eb-949e-bff2c2ab7391.png" />
-  </a>
-  
-<a href="https://es.stackoverflow.com/users/239041/jeremy-pedraza?tab=profile">
-  <img align="center" 
-       alt="Stack Overflow" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146236-e52bd700-470b-11eb-861e-e6f549b02b88.png" />
-  </a>
-  
-<a href="mailto:jeremyivanpedraza@gmail.com?Subject=%20Servicios%20de%20Programación%20">
-  <img align="center" 
-       alt="Gmail" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
-  </a>
-</h1>
-<div align="center" style="position: absolute;">
-<img align="center" bgcolor="white" src="https://github.com/user-attachments/assets/8c2dc98f-b543-492f-90ff-763750d5d91b" width="500">	
 </div>
 
+<!-- ============================================================ -->
+<!--                      LANGUAGE TOGGLE                         -->
+<!-- ============================================================ -->
 
-<div align="center"><br>
-  <img align="center" alt="NestJS" height="30" width="40" src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png">
-  <img align="center" alt="Laravel 9" height="30" width="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/ba984d51-7f2c-450e-b0e6-6419b2ca3071">
-  <img align="center" alt="LiveWire" height="30" width="40" src="https://www.iocod.com/section/stack/Livewire.webp">
-  <img align="center" alt="PHP" height="30" width="40" src="https://blogs.masterhacks.net/wp-content/uploads/2019/10/masterhacks_php_vulnerabilidad_fpm_nginx.png">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://www.luisllamas.es/wp-content/uploads/2017/08/node.js_logo.png">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:1000/0*8WNKxK0mDEiFc6MA.png">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SCSS" height="30" width="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/d918ce1a-1d08-45b7-83eb-855fb642f423">
-  <img align="center" alt="XAMARIN" height="30" width="40" src="https://e7.pngegg.com/pngimages/304/124/png-clipart-xamarin-android-cross-platform-native-studio-blue-angle.png">
-</div>
-
-<!-- Background -->
-
-<div align="center" class="author">
-    <picture  class="Jeremy">
-      <source srcset="/assets/manz.webp">
-
-   <a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content">
-</a>
-    </picture>
-  
-  
-  
-![snake gif](https://github.com/JpdzRamirez/JpdzRamirez/blob/output/github-contribution-grid-snake-dark.svg)
-
-<div align="center" style="position: absolute;">
-<img align="center" bgcolor="white" src="https://wakatime.com/share/@JPDZSoftware/5d49cf70-351c-4fc8-a9c3-03bf6fa2087a.svg" width="400">	
-</div>
-
-  
-  <div align="center" class="more_about">
-	  <h2><a href="https://github.com/JpdzRamirez/VCProject/tree/main/Resume-Content" style="text-decoration: none;"><img src="https://cdn.pixabay.com/animation/2024/01/10/01/47/01-47-16-330_512.gif" width="150"/>More about</a></h2>  
-	  <br>
-      <div align="left" class="itro">
-      <p><strong>Hello there I am Jeremy Pedraza, expert in computer and related systems; Counting on the experience and trajectory needed to solve problems at the Front Office and Back Office of any company. this is my introduction</strong></p>
-         </div>
-  </div>
-    </div>
-  </div>
-
-
-
-**** 
-
-<p> I am currently a FullStack developer in PHP LARAVEL and C # XAMARIN </p>. 
-I am also a Software and Data Engineering Student, a Technologist in Software Analysis and Development, and a Systems Technician with seven years of experience.
-I have been guiding my career for some time to solve various problems within organizations regarding the administration <br> of their resources, information and financial systems. Creating tools and implementing new technologies to optimize companies with growth potential. <br>
-<br>
-<em>"I have related the proactivity and effectiveness of programming in all kinds of solutions and I am passionate about what I can achieve with it"</em> </p>
-<br>
-
-### 📫 How to reach me: ...
- <ul>
- <li><a href="mailto:jeremyivanpedraza@gmail.com?Subject=%20Servicios%20de%20Programación%20"> 
- 👉📩📮 jeremyivanpedraza@gmail.com </a></li>
-<li><a href="https://wa.me/message/ZYPEQZ3HY5PVL1"> 
- 👉📲 https://wa.me/message/ZYPEQZ3HY5PVL1 </a></li>
-  <li><a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"> 
-👉🖥 www.linkedin.com/in/Jeremy-Iván-Pedraza-Hernández </a></li> 
-  </ul>  
-
- 
- ### 🔭 I’m currently working on ... 
- <ul>
- <li><a href="https://github.com/JpdzRamirez/NestJS-Marela-APIRest.git"> 
- NestJS APIRestful Marella Mobile APP 👉📎🖱 </a><a href="https://wakatime.com/badge/user/062a1793-e1d3-43ae-a9d1-452f34a0513c/project/492ba7a8-f05d-48b0-a7e6-6c7b4f9d0f43"><img src="https://wakatime.com/badge/user/062a1793-e1d3-43ae-a9d1-452f34a0513c/project/492ba7a8-f05d-48b0-a7e6-6c7b4f9d0f43.svg" alt="wakatime"></a></li>
-  <li><a href="https://github.com/JpdzRamirez/JAdmin"> 
- CRM Psychological Software👉📎🖱 </a></li>
-  <li><a href="https://github.com/JpdzRamirez/hv-component-app"> 
- My WebSite . WORKING...🛠👉📎🖱 </a><a href="https://wakatime.com/badge/github/JpdzRamirez/hv-component-app"><img src="https://wakatime.com/badge/github/JpdzRamirez/hv-component-app.svg" alt="wakatime"></a></li>
-  <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/PHP"> 
- PHP, MYSQL Development👉📎🖱 </a></li>
-   <li><a href="https://github.com/JpdzRamirez/react-proyect-app"> 
- APIs CRUD and Microservices & ROUTERS , REACT👉📎🖱 </a></li>
-   <li><a href="#"> 
- Backend PHPUNIT testing in Dependent Projects with LARAVEL, PRIVATE 👉📎🖱 </a></li>
-  
-</ul>  
-
-###  ⚡ My Goals
-
-<p> <em>In the present algorithm development, the meta search for character strings and keywords was achieved in a matrix system with N-iterations.</em> </p>
-<ul>
-<li><a href="https://github.com/JpdzRamirez/softlogy-generator"> 
- Softlogyc WEB APP PHP-Livewire Integration for Helpdesk 👉📎🖱 </a></li>
-<li><a href="https://github.com/JpdzRamirez/node-JS-api"> 
- Marella API-RESTful App NodeJS 👉📎🖱 </li>
-<li><a href="https://github.com/JpdzRamirez/HelpdeskTemplate"> 
- Helpdesk CRM🧮👉📎🖱 </a></li>
-<li><a href="https://github.com/JpdzRamirez/Cibersecurity"> 
- Cibersecurity PURE PHP LAB 👩‍💻t👉📎🖱 </a></li>
-<li><a href="https://github.com/JpdzRamirez/JADMIN-Financial"> 
- CRM Financial Software🧮👉📎🖱 </a></li>
-<li><a href="https://github.com/JpdzRamirez/JADMIN-Services"> 
- CRM Services Software👉📎🖱 </a></li>
-   <li><a href="https://github.com/JpdzRamirez/AutofacturaDian"> 
-     CRM AUTOFACTURA <strong> AUTOFACTURA</strong> on LARAVEL <i> Uploaded✅</i> 👉📎🖱 </a> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hhdzkxdXJsamczdzExZDI1bHdrcGY3ZXFzajBxNTQ1OGd1eXVwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" width="55"></li>
-   <li><a href="https://github.com/JpdzRamirez/GeolocationService"> 
-     CRM COMPANY GPS<strong> GEOlocation </strong> on LARAVEL <i> Uploaded✅...</i> 👉📎🖱 </a><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xkejBzbzdrc2w1dHN0NjkxcnhxMDV0MDFpcGI4YjNpMzFhN2Y3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CNHwfdaHPNYQPzAIoS/giphy.webp" width="55"></li>
-   <li><a href="#"> 
-     CRM  <strong> FRON-END REDESIGN </strong> on LARAVEL <i> Comming soon...</i> 👉📎🖱 </a></li>
-   <li><a href="https://github.com/JpdzRamirez/Arintia-Servicios"> 
-     WEB Site Arintia Group <strong> Microservicios </strong> on LARAVEL private <i> Uploaded✅...</i> 👉📎🖱 </a></li>
-   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/JAVA/POO/Proyecto%20JpdzSoft"> 
-       JAVA SWING Desktop Application🧮👉📎🖱 </a></li>
-   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/VisualBasic"> 
-       Visual Basic Desktop Applications🧮👉📎🖱 </a></li>
-   <li><a href="https://github.com/JpdzRamirez/VCProject/tree/main/assets/JAVA/BackEnd%20ARQ%20Transactional%20JAVA"> 
-       JAVA REST Backend Testing🧮👉📎🖱 </a></li>
-</ul>  
-<!-- Technical Skills -->
-<p><H3 align="center"><strong>Strong Technical Skills: 💻 </strong></p>
-
-     
-  <code><img height="50" src="https://www.ciset.es/images/Glosario/mysql.png" alt="Mysql"></code>
-  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/9f6b87f1-3c18-4d91-8f35-faaba37d3d42"></code>
-  <code><img height="40" src="https://blogs.masterhacks.net/wp-content/uploads/2019/10/masterhacks_php_vulnerabilidad_fpm_nginx.png" alt="PHP"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code> 
-  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/d918ce1a-1d08-45b7-83eb-855fb642f423" alt="SCSS"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png" alt="Javascript"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/66846214/135279399-d2269c00-eb0e-43a2-9055-0fbdc1c3ec84.png" alt="GIT"></code> 
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Phyton"></code>  
-  <br>
-  <code><img height="40" src="https://user-images.githubusercontent.com/66846214/135279462-ea26d960-b2b7-42b6-90a2-0bb7fc5ae943.png" alt="Laravel"></code>
-  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/833a220a-73dc-4773-8f3b-6de30f47f8db" alt="REACT"></code>
-  <code><img height="40" src="https://www.iocod.com/section/stack/Livewire.webp" alt="Livewire"></code>
-  <br>
-  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/6044d958-6d78-4dc2-8856-2d920454cdf1" alt="google-It"></code>
-  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/0b261538-77ab-40e8-bc8c-3bb15eac587d" alt="google-cibersecurity"></code>
-  <code><img height="40" src="https://github.com/JpdzRamirez/JpdzRamirez/assets/66846214/e772b107-ea7d-4588-8037-5bab5139b9b8" alt="google-dataAnalysis"></code>  
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100307358-3c068b00-2f6b-11eb-9f07-e262ad248471.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686171-87cac400-0bb9-11eb-9d49-390f3543a0a6.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686553-d4170380-0bbb-11eb-94f2-c528413c7bad.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686705-d9c11900-0bbc-11eb-87f5-a149b86cde5a.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687393-a2546b80-0bc0-11eb-8991-c0c72326f29c.png"></code>
-  <code><img height="40" src="https://www.pinclipart.com/picdir/middle/519-5198543_vba-training-in-chennai-visual-basic-application-logo.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688226-c6ff1200-0bc5-11eb-82cc-33e35bcb0910.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>  
-  
-&nbsp;  
-
-  <!-- Skills to learn -->
-<p><H3 align="center"><strong>Ongoing Learning: 🌐</strong></p>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1200px-SAP_2011_logo.svg.png" alt="SAP"></code>
-<code><img height="40" src="https://www.masip.es/wp-content/uploads/2020/08/aws-logo-1200x900.png" alt="Amazon-Web-Services"></code>
-<code><img height="40" src="https://1000marcas.net/wp-content/uploads/2021/05/Logo-Google-Cloud.png" alt="Google-Cloud"></code>
-<code><img height="40" src="https://images.credly.com/images/5a53000d-fed4-4877-b17d-d769a50eeb4e/image.png" alt="IBM-FULLSTACK"></code>
-</p>
-&nbsp;
-#My next focus  🎯
-
-<p align="center">
-  
-<code><img height="20" src="https://user-images.githubusercontent.com/66846214/113794412-15721100-9710-11eb-91d0-f67003522c2b.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/66846214/113794124-764d1980-970f-11eb-962e-4a70a85744d2.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/66846214/113794133-7cdb9100-970f-11eb-9b2e-18dbf8360360.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/66846214/113794614-93361c80-9710-11eb-8373-e425e6df5b9c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-</p>
-
-
-<h3 align="center" >How I rate my knowledge </h3>
-<table align="center">
-      <thead>
-        <tr>
-          <th>Framework</th>
-          <th>Concepts</th>
-          <th>Kits</th>
-        </tr>
-      <thead>
-      <tbody>
-        <tr>
-          <td>
-		<img height="20" src="https://www.svgrepo.com/show/353985/laravel.svg">
-		Laravel 7,8 -> 11
-	  </td>
-          <td>
-		  <ul>
-			  <li>Routes</li>
-			  <li>Middleware</li>
-			  <li>Controllers</li>
-			  <li>Views</li>
-			  <li>Templates & Components</li>
-			  <li>LDAP Auth</li>
-			  <li>Database Migrations</li>
-			  <li>Multiple BD</li>
-			  <li>Notifications & Mail</li>
-			  <li>File Storage</li>
-			  <li>Authetication & Authorization</li>
-			  <li>OA2</li>
-			  <li>SMTP</li>
-			  <li>Livewire</li>
-		  </ul>
-	  </td>
-          <td wrap="hard">
-		  <ul style="list-style:none;">
-			  <li><img height="20" src="https://www.svgrepo.com/show/374167/vite.svg"></li>
-			  <li><img height="20" src="https://jetstream.laravel.com/logo-dark.svg"></li>
-			  <li><img height="20" src="https://www.otwo.jp/blog/wp-content/uploads/2022/05/dompdf_main.png"></li>
-			  <li><img height="20" src="https://madewithnetworkfra.fra1.digitaloceanspaces.com/spatie-space-production/13051/ziggy-2.jpg"></li>
-			  <li><img height="20" src="https://i0.wp.com/www.latirus.com/blog/wp-content/uploads/2020/09/laravel-livewire.png?fit=2220%2C1125&ssl=1"></li>
-			  <li><img height="20" src="https://codersfree.nyc3.cdn.digitaloceanspaces.com/posts/laravel-livewire-14-consejos-y-trucos.jpg"></li>
-		  </ul> 
-	  </td>
-        </tr>
-	<tr>
-	<td>
-		<img height="20" src="https://blogs.masterhacks.net/wp-content/uploads/2019/10/masterhacks_php_vulnerabilidad_fpm_nginx.png">
-		PHP
-	  </td>
-	<td wrap="hard">
-		  <ul style="list-style:none;">
-			  <li>SOLID</li>
-			  <li>MVC</li>
-			  <li>API REST</li>
-			  <li>DIAN</li>
-		  </ul> 
-	 </td>
-	<td wrap="hard">
-		  <ul>
-			  <li><img height="20" src="https://www.comerline.es/wp-content/uploads/2022/04/1XOMTPWTpDLypkp079p9XXg-970x686.png"></li>
-			  <li><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyUF_NabZxblxlAp2ZtVVV6qJvGCLWy8fzLw&s"></li>
-			  <li><img height="20" src="https://media.licdn.com/dms/image/D4D12AQGymHTub6RIRw/article-cover_image-shrink_720_1280/0/1700972779305?e=2147483647&v=beta&t=eE32UCGTtZgdiOp51B40yYDhZx9-pzRtPfHN6QcMd8o"></li>
-		  </ul>
-	 </td>
-	</tr>
-      </tbody>
-    <table/> 
-
-
-🗜 **This week I spent my time on**
 <div align="center">
-<img src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif" width="300"/>	
+
+### 🌐 `> select_language()`
+
 </div>
-<br>
-<table border="1" cellspacing="0" cellpadding="5" align="center">
-  <thead>
-    <tr>
-      <th>Knowledge</th>
-      <th>Documentation</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>AWS Identity and access Management ( IAM)</td>
-      <td>
-        <details>
-          <summary>View More 📘🤓</summary>
-          <a href="https://www.canva.com/design/DAGZsGWRc8g/onNBbR7ZvB5XcgaUeoWjCA/edit?utm_content=DAGZsGWRc8g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Documentation👉📎🖱</a><br>
-          <img width="500px" src="https://github.com/user-attachments/assets/21361c96-c104-445b-a2c0-798ca7a9c87a" alt="IAM SECURITY">
-        </details>
-      </td>
-    </tr>
-    <tr>
-      <td>Cloud Computing Model</td>
-      <td>
-        <details>
-          <summary>View More 📘🤓</summary>
-          <a href="https://www.canva.com/design/DAGXbTLEsWw/kVurjVnRicv68HGwTvkniQ/edit?utm_content=DAGXbTLEsWw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Documentation👉📎🖱</a><br>
-          <img width="500px" src="https://github.com/user-attachments/assets/49f31a01-2ea3-4551-b52c-2c4194a0f9a2" alt="Cloud Computing Model">
-        </details>
-      </td>
-    </tr>
-    <tr>
-      <td>Networks and Telematics</td>
-      <td>
-        <details>
-          <summary>View More 📘🤓</summary>
-          <a href="https://docs.google.com/document/d/1qUMpVLYEFEovw3q4FTsbViOx2we3l4wju1JgX-Xl2zY/edit?usp=sharing">Documentation👉📎🖱</a><br>
-          <img width="500px" src="https://github.com/user-attachments/assets/110e3009-a09d-42a7-b609-32860739180a" alt="Network Knowledge Image">
-        </details>
-      </td>
-    </tr>
-    <tr>
-      <td>BASH Terminal and Powershell / Command Prompt</td>
-      <td>
-        <details>
-          <summary>View More 📘🤓</summary>
-          <a href="https://docs.google.com/document/d/1f8T8F7kpHmtwDHL926BlBoJAutvsFxO9uKsIFl6kJjg/edit?usp=sharing">Documentation👉📎🖱</a><br>
-          <img width="500px" src="https://github.com/user-attachments/assets/2759cc35-f5b8-41d2-aea2-0824f25f08cc" alt="Terminal Knowledge Image">
-        </details>
-      </td>
-    </tr>
-    <tr>
-      <td>SSH-SFTP DATA TRANSFER</td>
-      <td>
-        <details>
-          <summary>View More 📘🤓</summary>
-          <a href="https://docs.google.com/document/d/1q9RtwjpS_3lDSw2Lj5txtqoNu8L-T7LFc7xooaOZ6Hk/edit?usp=sharing">Documentation👉📎🖱</a><br>
-          <img width="500px" src="https://github.com/user-attachments/assets/44324afa-6f6a-45ec-8ff0-ff9cff3c9f15" alt="Data Transfer Knowledge Image">
-        </details>
-      </td>
-    </tr>
-    <tr>
-      <td>Terminal Basic Commands</td>
-      <td>
-        <details>
-          <summary>View More 📘🤓</summary>
-          <a href="https://docs.google.com/document/d/1mgIzF3TdoBrwLQcB2leYZ9DKsIdVgWRfCcX_GlT_VGU/edit?usp=sharing">Documentation👉📎🖱</a><br>
-          <img width="500px" src="https://fastestvpn.com/blog/wp-content/uploads/2024/03/List-of-Command-Prompt-CMD-900.png" alt="Terminal Commands Knowledge Image">
-        </details>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<br>
 
- <details>
-  <summary><strong>Show more about my studies route</strong ><H3 align="center"><strong> Roadmap </strong></h3></summary>
-  <p align="center">
-  <img width="800"  src="https://roadmap.sh/roadmaps/backend.png" class="img__Img-arv17j-0 eVoZod">
-  </p>
- </details>
-<!--START_SECTION:waka-->
-<br>
-<details>
-  <summary> in contruction ⛏🛠</summary>
-<a href="https://github.com/JpdzRamirez/VCProject#readme">
-<img align="center" src="https://camo.githubusercontent.com/37514554a55fb90f15eb296a6933fe3c82ee3b340e62a15ac78044b62362d42e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6275656679" alt="JCS´s favorite languagues/>
-</a>
+<details open>
+<summary><b>&nbsp;🇬🇧 &nbsp;English</b></summary>
+
+<br/>
+
+> ```bash
+> $ whoami
+> ```
+
+I'm **Jeremy Pedraza** — an expert in computer and related systems, with the experience and track record to solve **Front Office & Back Office** problems for any company.
+
+I'm a **Software & Data Engineering student**, a **Technologist in Software Analysis & Development**, and a **Systems Technician** with **7+ years** of experience. My career is focused on solving organizational problems around **resource, information and financial systems** — building tools and adopting new tech to optimize companies with growth potential.
+
+> *"I've blended the proactivity and effectiveness of programming into all kinds of solutions, and I'm passionate about everything I can achieve with it."*
+
 </details>
-<br>
 
-### Thought philosophy
+<details>
+<summary><b>&nbsp;🇪🇸 &nbsp;Español</b></summary>
 
-<h2 align="center">  Why programming?</h2>
-<h3 align="center"><br> It's my sense of life, my choice , I choose, do you choose?</h3> 
-<p align="center">
-<a href="https://www.youtube.com/watch?v=H7weHFBoWwI">
-  <img height="400" width="800px" src="https://user-images.githubusercontent.com/66846214/124176234-409ca000-da74-11eb-9f7f-89404e933abc.png" />
+<br/>
+
+> ```bash
+> $ whoami
+> ```
+
+Soy **Jeremy Pedraza** — experto en sistemas informáticos y afines, con la experiencia y trayectoria para resolver problemas de **Front Office y Back Office** en cualquier empresa.
+
+Soy **estudiante de Ingeniería de Software y Datos**, **Tecnólogo en Análisis y Desarrollo de Software** y **Técnico en Sistemas** con **7+ años** de experiencia. Oriento mi carrera a resolver problemas dentro de las organizaciones en la administración de **recursos, información y sistemas financieros** — creando herramientas e implementando nuevas tecnologías para optimizar empresas con potencial de crecimiento.
+
+> *"He relacionado la proactividad y la efectividad de la programación en todo tipo de soluciones y me apasiona lo que puedo lograr con ella."*
+
+</details>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                          TECH STACK                          -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+## 🛠️ `> tech_stack`
+
+</div>
+
+#### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+#### Mobile & Desktop
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+#### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
+
+#### Learning Now 🌱
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                     FEATURED PROJECTS                        -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+## 🚀 `> featured_projects`
+
+</div>
+
+| Project | Stack | Description |
+|---|---|---|
+| 🧾 **[Autofactura DIAN](https://github.com/JpdzRamirez/AutofacturaDian)** | Laravel · PHP | CRM for automated electronic invoicing (DIAN) — ✅ *Live* |
+| 📍 **[Geolocation Service](https://github.com/JpdzRamirez/GeolocationService)** | Laravel | Company GPS geolocation CRM — ✅ *Live* |
+| 📱 **[Marela API REST](https://github.com/JpdzRamirez/NestJS-Marela-APIRest)** | NestJS · TypeScript | RESTful API for the Marella mobile app |
+| 🧠 **[JAdmin CRM](https://github.com/JpdzRamirez/JAdmin)** | Laravel | Psychological / clinical management CRM |
+| 🎫 **[Softlogyc Helpdesk](https://github.com/JpdzRamirez/softlogy-generator)** | PHP · Livewire | Helpdesk integration web app |
+| 💰 **[JAdmin Financial](https://github.com/JpdzRamirez/JADMIN-Financial)** | Laravel | Financial management CRM |
+
+<div align="center">
+
+<sub><i>See more on my <a href="https://github.com/JpdzRamirez?tab=repositories">repositories tab →</a></i></sub>
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                        GITHUB STATS                          -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+## 📊 `> github_metrics`
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JpdzRamirez&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00d4ff&icon_color=7928ca&bg_color=0b0f1a" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpdzRamirez&layout=compact&hide_border=true&theme=tokyonight&title_color=00d4ff&bg_color=0b0f1a&langs_count=8" alt="top langs"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JpdzRamirez&hide_border=true&theme=tokyonight&background=0b0f1a&ring=00d4ff&fire=7928ca&currStreakLabel=00d4ff" alt="streak"/>
+
+<br/><br/>
+
+<!-- WakaTime coding activity -->
+<a href="https://wakatime.com/@JPDZSoftware">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JPDZSoftware&hide_border=true&theme=tokyonight&title_color=00d4ff&bg_color=0b0f1a&layout=compact" alt="wakatime"/>
 </a>
-</p>
 
+</div>
 
-<h5 align="center"><br>https://youtu.be/ZNilbE-d15I <em> <br>“What I believe and Who i am </em> </h5>
+<br/>
 
-  <h3 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">Because programming is the very sun that guides me 🛣</h3>
-  
-  
-  <h4 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">"What illuminates me in my greatest despair and my greatest darkness " 🔥</h4>
-  
+<!-- ============================================================ -->
+<!--                       CONTRIBUTION SNAKE                     -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+## 🐍 `> contribution_graph`
+
+<img src="https://raw.githubusercontent.com/JpdzRamirez/JpdzRamirez/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                    KNOWLEDGE & DOCS                          -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+## 📚 `> knowledge_base`
+
+</div>
+
+<div align="center">
+
+| Topic | Docs |
+|---|---|
+| AWS Identity & Access Management (IAM) | [📘 View](https://www.canva.com/design/DAGZsGWRc8g/onNBbR7ZvB5XcgaUeoWjCA/view) |
+| Cloud Computing Model | [📘 View](https://www.canva.com/design/DAGXbTLEsWw/kVurjVnRicv68HGwTvkniQ/view) |
+| Networks & Telematics | [📘 View](https://docs.google.com/document/d/1qUMpVLYEFEovw3q4FTsbViOx2we3l4wju1JgX-Xl2zY/edit) |
+| BASH / PowerShell / CMD | [📘 View](https://docs.google.com/document/d/1f8T8F7kpHmtwDHL926BlBoJAutvsFxO9uKsIFl6kJjg/edit) |
+| SSH & SFTP Data Transfer | [📘 View](https://docs.google.com/document/d/1q9RtwjpS_3lDSw2Lj5txtqoNu8L-T7LFc7xooaOZ6Hk/edit) |
+| Terminal Basic Commands | [📘 View](https://docs.google.com/document/d/1mgIzF3TdoBrwLQcB2leYZ9DKsIdVgWRfCcX_GlT_VGU/edit) |
+
+</div>
+
+<details>
+<summary><b>🗺️ &nbsp;Studies Roadmap</b></summary>
 <p align="center">
-<img align="center" src="https://media.giphy.com/media/glIbu333nnz7G/giphy.gif" width="354" height="252" alt="Programming gives me hope and makes me trust myself" />
-<br>Programming gives me hope and makes me trust myself
+  <img width="780" src="https://roadmap.sh/roadmaps/backend.png" alt="backend roadmap"/>
 </p>
+</details>
 
+<br/>
 
- <h3 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">Programming with ❤</h3>
+<!-- ============================================================ -->
+<!--                        PHILOSOPHY                            -->
+<!-- ============================================================ -->
 
- <h4 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">It is the Dogma that governs my life"</h4>
+<div align="center">
 
-<p align="center">
-<a href="https://www.youtube.com/watch?v=H7weHFBoWwI">
-  <img width="500px" src="https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/07/Isaac-Netero-from-Hunter-X-Hunter.jpg?q=50&fit=crop&w=740&h=370" />
-</a>
-</p>
-  
-  <h5 align="center"><br>https://www.youtube.com/watch?v=H7weHFBoWwI <em> <br>“What I believe and Who i am </em> </h5>
+## 💭 `> philosophy`
 
- 
- 
+> *"Every line of code I write brings me closer to my happiness.*
+> *The future excites me — it's full of possibilities, and the text line awaits me to write the future I want."* 🌱
 
+<i>Programming with ❤ — the dogma that governs my life.</i>
 
-<h3 align="center"; color: #3f7320;"><span style="border-bottom: 4px solid #c82828;">“Writing my life and coding the future I want”🌱</h3>
+</div>
 
+<br/>
 
-* Every line of code that I write brings me closer to my happiness and it is really gratifying to know that I am progressing. 
-* Every hour, every day that I spend programming is so short, I do not notice how long I have been looking at a screen, I only see that each time I learn something and  immediately discover endless possibilities, infinite knowledge, infinite hours of programming. It's a world to discover.
+<!-- ============================================================ -->
+<!--                          CONTACT                             -->
+<!-- ============================================================ -->
 
-<p align="center"> <em>The future of excites, is full of possibilities and the text line awaits me to write the future I want</em></p>
+<div align="center">
 
-Here are some ideas to get you started:
+## 📫 `> reach_me`
 
+📩 **[jeremyivanpedraza@gmail.com](mailto:jeremyivanpedraza@gmail.com?Subject=Servicios%20de%20Programaci%C3%B3n)**
+&nbsp;•&nbsp;
+📲 **[WhatsApp](https://wa.me/message/ZYPEQZ3HY5PVL1)**
+&nbsp;•&nbsp;
+🖥 **[LinkedIn](https://www.linkedin.com/in/jeremy-pedraza-72824720b/)**
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---
+<br/>
 
-    
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,30:00d4ff,70:7928ca,100:0b0f1a&height=120&section=footer"/>
+
+</div>
