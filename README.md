@@ -226,7 +226,7 @@ Soy **estudiante de Ingeniería de Software y Datos**, **Tecnólogo en Análisis
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JpdzRamirez&hide_border=true&theme=tokyonight&background=0b0f1a&ring=00d4ff&fire=7928ca&currStreakLabel=00d4ff" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=JpdzRamirez&hide_border=true&theme=tokyonight&background=0b0f1a&ring=00d4ff&fire=7928ca&currStreakLabel=00d4ff" alt="streak"/>
 
 <br/><br/>
 
