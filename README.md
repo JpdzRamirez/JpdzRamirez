@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://github.com/JpdzRamirez">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=FullStack+Developer+%E2%9A%A1+Laravel+%2B+NestJS;Software+%26+Data+Engineering+Student;7%2B+years+solving+Front+%26+Back+Office+problems;Building+tools+that+optimize+companies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=640&lines=FullStack+Engineer+%E2%9A%A1+NestJS+%2B+Laravel+%2B+.NET;Multi-tenant+SaaS+%26+Cloud+Platforms;Oracle+Simphony+%2F+POS+%26+Payments+integrations;DIAN+E-Invoicing+%E2%80%A2+QuickBooks+%E2%80%A2+SUI;Software+%26+Data+Engineering+Student" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -99,37 +99,60 @@ Soy **estudiante de Ingeniería de Software y Datos**, **Tecnólogo en Análisis
 </div>
 
 #### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 #### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt_3-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Inertia](https://img.shields.io/badge/Inertia_2-9553E9?style=flat-square&logo=inertia&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 #### Mobile & Desktop
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin.Forms-3498DB?style=flat-square&logo=xamarin&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_Windows_Service-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-#### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+#### Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Express-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Bull](https://img.shields.io/badge/BullMQ-EA4335?style=flat-square&logo=redis&logoColor=white)
 
-#### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+#### DevOps & Infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI-FFC107?style=flat-square&logo=glpi&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![SFTP](https://img.shields.io/badge/SFTP-1572B6?style=flat-square&logo=openssh&logoColor=white)
+
+#### Enterprise Integrations & Domain
+![Oracle Simphony](https://img.shields.io/badge/Oracle_Simphony/Micros-F80000?style=flat-square&logo=oracle&logoColor=white)
+![TCPOS](https://img.shields.io/badge/TCPOS-002B5C?style=flat-square&logoColor=white)
+![QuickBooks](https://img.shields.io/badge/QuickBooks_Online-2CA01C?style=flat-square&logo=intuitquickbooks&logoColor=white)
+![DIAN](https://img.shields.io/badge/DIAN_E--Invoicing-005CA9?style=flat-square&logoColor=white)
+![SUI](https://img.shields.io/badge/SUI_Servicios_Públicos-006633?style=flat-square&logoColor=white)
+![Payments](https://img.shields.io/badge/Credibanco_·_Redeban_·_Bold-7928ca?style=flat-square&logoColor=white)
+![Delivery](https://img.shields.io/badge/Rappi_·_Didi-FF441F?style=flat-square&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL_·_SLA-orange?style=flat-square&logoColor=white)
+![LCA](https://img.shields.io/badge/LCA_ISO_14040/44-4CAF50?style=flat-square&logoColor=white)
 
 #### Learning Now 🌱
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -149,14 +172,38 @@ Soy **estudiante de Ingeniería de Software y Datos**, **Tecnólogo en Análisis
 
 </div>
 
+### 🏢 Enterprise / Flagship
+
 | Project | Stack | Description |
 |---|---|---|
-| 🧾 **[Autofactura DIAN](https://github.com/JpdzRamirez/AutofacturaDian)** | Laravel · PHP | CRM for automated electronic invoicing (DIAN) — ✅ *Live* |
-| 📍 **[Geolocation Service](https://github.com/JpdzRamirez/GeolocationService)** | Laravel | Company GPS geolocation CRM — ✅ *Live* |
-| 📱 **[Marela API REST](https://github.com/JpdzRamirez/NestJS-Marela-APIRest)** | NestJS · TypeScript | RESTful API for the Marella mobile app |
-| 🧠 **[JAdmin CRM](https://github.com/JpdzRamirez/JAdmin)** | Laravel | Psychological / clinical management CRM |
-| 🎫 **[Softlogyc Helpdesk](https://github.com/JpdzRamirez/softlogy-generator)** | PHP · Livewire | Helpdesk integration web app |
-| 💰 **[JAdmin Financial](https://github.com/JpdzRamirez/JADMIN-Financial)** | Laravel | Financial management CRM |
+| 💳 **[Mokka Platform](https://www.mokkapp.cloud)** | Next.js · NestJS · Flutter · TS | Cloud platform for merchants & payment devices. Certified payment terminal (Credibanco, Redeban, Bold, Yolo Pago), Oracle Simphony/TCPOS partner, Rappi/Didi integrations, e-invoicing, datawarehouse & AI reporting. |
+| 📊 **[QuickBooks Connector — Juan Valdez USA](https://quickbooks.juanvaldez.com)** | Nuxt 3 · Vue 3 · NestJS · PostgreSQL · Redis | Automates restaurant accounting by syncing Oracle Simphony/Micros POS sales, inventory & purchases into Intuit QuickBooks Online (multi-tenant, SFTP, analytics). |
+| 🌱 **[RAD.AR — Agro Data Repository (BID)](https://www.jpdzsoftware.website)** | React · TypeScript · Data Viz | Public platform for the IDB (BID) & Argentina's Ministry of Economy. Centralizes scientifically validated agro-industrial environmental profiles via LCA (ISO 14040/44). |
+
+### ⚡ Advanced
+
+| Project | Stack | Description |
+|---|---|---|
+| 💧 **[Marella](https://www.marellapp.com)** | NestJS · Flutter · TS · EJS | Multi-tenant cloud SaaS for rural & municipal water utilities. SUI integration, metering, e-invoicing, GPS, routes, Bluetooth printing. |
+| 🧩 **Addendum** | NestJS · .NET 8 · PostgreSQL · Redis · Bull | Oracle Simphony reporting ecosystem: a .NET 8 Windows-service agent + multi-tenant (schema-per-tenant) NestJS API with analytics dashboards. *Oracle Partner.* |
+| 🎫 **[Softlogy Micro](https://micro.softlogydesk.com)** | PHP · Livewire · .NET · C# · PostgreSQL · GLPI · n8n | E-invoicing support microservices: credit notes, invoice customization, ticketing, IT inventory & asset hand-over records. |
+| 🚐 **Taxsur CRM & Mobile** | C# · Xamarin.Forms · Laravel · PHP | CRM + mobile app with vehicle geolocation, async DIAN auto-invoicing and network infra (PBX/VPN) redesign. |
+| 🖥️ **[JPDZSoftware Portfolio](https://github.com/JpdzRamirez)** | Laravel 13 · React 19 · Inertia 2 · Tailwind 4 | Interactive portfolio simulating a Windows 11 desktop — full app ecosystem, i18n & neural background animations. |
+
+<details>
+<summary><b>📦 &nbsp;More projects (Standard & Simple)</b></summary>
+
+<br/>
+
+| Project | Stack | Description |
+|---|---|---|
+| 🧾 **[Factura Archie's](https://facturaarchies.com.co)** | Nuxt 3 · Vue 3 · TS | Self-service e-invoice customization portal (DIAN) for Archie's Company S.A.S. |
+| 🛠️ **[SoftlogyDesk](https://www.softlogydesk.com)** | PHP · MySQL · GLPI · ITIL · Azure | ITSM platform: tickets, SLA, ITIL service levels, asset management & knowledge base. |
+| 🔁 **SyncBill** | TypeScript · Node.js | High-volume batch invoice import app on a scalable architecture. |
+| 🌐 **[Softlogy Portal Web](https://softlogyco.com)** | TS · EJS · CSS | Corporate site for Softlogy S.A.S — POS, e-invoicing & e-payroll products. |
+| 📁 **[Softlogy CORS Repository](https://github.com/JpdzRamirez)** | Shared assets | Public shared-resources repo used as a common dependency across org projects. |
+
+</details>
 
 <div align="center">
 
