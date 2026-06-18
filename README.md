@@ -221,12 +221,12 @@ Soy **estudiante de Ingeniería de Software y Datos**, **Tecnólogo en Análisis
 
 ## 📊 `> github_metrics`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JpdzRamirez&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00d4ff&icon_color=7928ca&bg_color=0b0f1a" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JpdzRamirez&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00d4ff&icon_color=7928ca&bg_color=0b0f1a" alt="stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpdzRamirez&layout=compact&hide_border=true&theme=tokyonight&title_color=00d4ff&bg_color=0b0f1a&langs_count=8" alt="top langs"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=JpdzRamirez&hide_border=true&theme=tokyonight&background=0b0f1a&ring=00d4ff&fire=7928ca&currStreakLabel=00d4ff" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=JpdzRamirez&theme=tokyonight&hide_border=true&background=0b0f1a&ring=00d4ff&fire=7928ca&currStreakLabel=00d4ff&date_format=M%20j%5B%2C%20Y%5D" alt="streak"/>
 
 <br/><br/>
 
@@ -286,8 +286,32 @@ Soy **estudiante de Ingeniería de Software y Datos**, **Tecnólogo en Análisis
 <br/>
 
 <!-- ============================================================ -->
-<!--                        PHILOSOPHY                            -->
+<!--                       CREDENTIALS CTA                        -->
 <!-- ============================================================ -->
+
+<div align="center">
+
+## 🔐 `> credentials --unlock`
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="180" style="object-fit:cover" alt="matrix hacker animation"/>
+
+<br/>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=00FF66&center=true&vCenter=true&width=560&lines=root%40jpdz%3A~%24+sudo+access+certificates;Decrypting+credentials...;%5BOK%5D+30%2B+certifications+unlocked+%E2%9C%93;Access+granted+%E2%80%94+click+below+%E2%86%93" alt="terminal" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/JpdzRamirez/FundamentosDeProgramacion/tree/main/Resume-Content">
+  <img src="https://img.shields.io/badge/%F0%9F%97%84%EF%B8%8F_VIEW_FULL_RESUME_%26_CERTIFICATES-0b0f1a?style=for-the-badge&logo=hackthebox&logoColor=00FF66&labelColor=0b0f1a&color=00d4ff" alt="view certificates"/>
+</a>
+
+<sub><i>Education · Certifications · Work Experience · Technical credentials</i></sub>
+
+</div>
+
+<br/>
 
 <div align="center">
 
