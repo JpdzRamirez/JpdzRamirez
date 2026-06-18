@@ -197,23 +197,33 @@ Soy **estudiante de Ingeniería de Software y Datos**, **Tecnólogo en Análisis
 
 <div align="center">
 
-**🗺️ System Architecture** — local agents (Oracle Simphony POS) syncing to the cloud via Web Services
-<a href="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum-01.png"><img width="80%" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum-01.png" alt="Addendum architecture"/></a>
+<b>🗺️ System Architecture</b> — local agents (Oracle Simphony POS) syncing to the cloud via Web Services<br/>
+<a href="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/addendum-01.png"><img width="80%" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/addendum-01.png" alt="Addendum architecture"/></a>
 
-**🎛️ Report Filters** — date range, employees & environments selection
-<a href="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum-02.png"><img width="80%" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum-02.png" alt="Addendum filters"/></a>
+<br/><br/>
 
-**💰 General Sales Report** — income composition, order types, payment methods & discounts
-<a href="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum-03.png"><img width="80%" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum-03.png" alt="Addendum sales report"/></a>
+<b>🎛️ Report Filters</b> — date range, employees &amp; environments selection<br/>
+<a href="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/addendum-02.png"><img width="80%" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/addendum-02.png" alt="Addendum filters"/></a>
 
-**🖥️ Workstations Report** — sales by workstation, employee & order type
-<a href="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum-04.png"><img width="80%" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum-04.png" alt="Addendum workstations"/></a>
+<br/><br/>
 
-**⏱️ KDS Performance Report** — orders, average prep times & per-device performance
-<a href="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum-05.png"><img width="80%" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum-05.png" alt="Addendum KDS"/></a>
+<b>💰 General Sales Report</b> — income composition, order types, payment methods &amp; discounts<br/>
+<a href="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/addendum-03.png"><img width="80%" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/addendum-03.png" alt="Addendum sales report"/></a>
 
-**🧾 Closed Checks Detail** — per order type with full payment breakdown
-<a href="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum/addendum-06.png"><img width="80%" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum-06.png" alt="Addendum checks"/></a>
+<br/><br/>
+
+<b>🖥️ Workstations Report</b> — sales by workstation, employee &amp; order type<br/>
+<a href="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/addendum-04.png"><img width="80%" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/addendum-04.png" alt="Addendum workstations"/></a>
+
+<br/><br/>
+
+<b>⏱️ KDS Performance Report</b> — orders, average prep times &amp; per-device performance<br/>
+<a href="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/addendum-05.png"><img width="80%" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/addendum-05.png" alt="Addendum KDS"/></a>
+
+<br/><br/>
+
+<b>🧾 Closed Checks Detail</b> — per order type with full payment breakdown<br/>
+<a href="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/addendum-06.png"><img width="80%" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/refs/heads/main/Resources/img/addendum-06.png" alt="Addendum checks"/></a>
 
 </div>
 
@@ -322,7 +332,7 @@ Soy **estudiante de Ingeniería de Software y Datos**, **Tecnólogo en Análisis
 
 ## 🔐 `> credentials --unlock`
 
-<img src="https://images.steamusercontent.com/ugc/939432316730598692/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" width="80%" height="180" style="object-fit:cover; border-radius:10px;" alt="banner"/>
+<img src="https://images.steamusercontent.com/ugc/939432316730598692/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" width="100%" height="200" style="object-fit:cover; border-radius:10px;" alt="banner"/>
 
 <br/>
 
