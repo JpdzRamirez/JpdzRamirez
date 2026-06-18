@@ -268,14 +268,17 @@ Soy **estudiante de Ingeniería de Software y Datos**, **Tecnólogo en Análisis
 
 <br/><br/>
 
-<!-- WakaTime coding activity -->
-<a href="https://wakatime.com/@JPDZSoftware">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JPDZSoftware&amp;hide_border=true&amp;theme=tokyonight&amp;title_color=00d4ff&amp;bg_color=0b0f1a&amp;layout=compact" alt="wakatime"/>
-</a>
-
-<br/><br/>
-
-<a href="https://wakatime.com"><img width="45%" src="https://wakatime.com/share/@JPDZSoftware/e49e91bf-316a-45f5-bb70-0489ac6291df.png" alt="wakatime share"/></a>
+<!-- WakaTime: card + share side by side (two columns) -->
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+<a href="https://wakatime.com/@JPDZSoftware"><img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=JPDZSoftware&amp;hide_border=true&amp;theme=tokyonight&amp;title_color=00d4ff&amp;bg_color=0b0f1a&amp;text_color=ffffff&amp;layout=compact" alt="wakatime card"/></a>
+</td>
+<td valign="top" width="50%">
+<a href="https://wakatime.com/@JPDZSoftware"><img width="100%" src="https://wakatime.com/share/@JPDZSoftware/03544d54-7633-4625-ade9-93a617908205.svg" alt="wakatime share dark"/></a>
+</td>
+</tr>
+</table>
 
 </div>
 
