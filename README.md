@@ -2,7 +2,7 @@
 <!--                         HERO BANNER                          -->
 <!-- ============================================================ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b0f1a,30:7928ca,70:00d4ff,100:0b0f1a&amp;height=220&amp;section=header&amp;text=Jeremy%20Pedraza&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=38&amp;desc=FullStack%20Engineer%20%E2%80%A2%20Laravel%20%E2%80%A2%20NextJS%20%E2%80%A2%20NestJS%20%E2%80%A2%20.Net%20%E2%80%A2%20Flutter&amp;descSize=18&amp;descAlignY=58&amp;animation=fadeIn" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b0f1a,30:7928ca,70:00d4ff,100:0b0f1a&amp;height=220&amp;section=header&amp;text=Jeremy%20Pedraza&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=38&amp;desc=FullStack%20Engineer%20%E2%80%A2%20Laravel%20%E2%80%A2%20NextJS%20%E2%80%A2%20NestJS%20%E2%80%A2%20.Net%20%E2%80%A2%20Flutter%20%E2%80%A2%20DevOps&amp;descSize=18&amp;descAlignY=58&amp;animation=fadeIn" alt="banner"/>
 
 <div align="center">
 
