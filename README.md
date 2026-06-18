@@ -185,10 +185,39 @@ Soy **estudiante de Ingeniería de Software y Datos**, **Tecnólogo en Análisis
 | Project | Stack | Description |
 |---|---|---|
 | 💧 **[Marella](https://www.marellapp.com)** | NestJS · Flutter · TS · EJS | Multi-tenant cloud SaaS for rural &amp; municipal water utilities. SUI integration, metering, e-invoicing, GPS, routes, Bluetooth printing. |
-| 🧩 **Addendum** | NestJS · .NET 8 · PostgreSQL · Redis · Bull | Oracle Simphony reporting ecosystem: a .NET 8 Windows-service agent + multi-tenant (schema-per-tenant) NestJS API with analytics dashboards. *Oracle Partner.* |
+| 🧩 **Addendum** &nbsp;`📸 gallery ↓` | NestJS · .NET 8 · PostgreSQL · Redis · Bull | Oracle Simphony reporting ecosystem: a .NET 8 Windows-service agent + multi-tenant (schema-per-tenant) NestJS API with analytics dashboards. *Oracle Partner.* |
 | 🎫 **[Softlogy Micro](https://micro.softlogydesk.com)** | PHP · Livewire · .NET · C# · PostgreSQL · GLPI · n8n | E-invoicing support microservices: credit notes, invoice customization, ticketing, IT inventory &amp; asset hand-over records. |
 | 🚐 **Taxsur CRM &amp; Mobile** | C# · Xamarin.Forms · Laravel · PHP | CRM + mobile app with vehicle geolocation, async DIAN auto-invoicing and network infra (PBX/VPN) redesign. |
 | 🖥️ **[JPDZSoftware Portfolio](https://github.com/JpdzRamirez)** | Laravel 13 · React 19 · Inertia 2 · Tailwind 4 | Interactive portfolio simulating a Windows 11 desktop — full app ecosystem, i18n &amp; neural background animations. |
+
+<details>
+<summary><b>🧩 &nbsp;Addendum — Screenshots gallery (click to expand)</b></summary>
+
+<br/>
+
+<div align="center">
+
+**🗺️ System Architecture** — local agents (Oracle Simphony POS) syncing to the cloud via Web Services
+<a href="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum/addendum-01.png"><img width="80%" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum/addendum-01.png" alt="Addendum architecture"/></a>
+
+**🎛️ Report Filters** — date range, employees & environments selection
+<a href="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum/addendum-02.png"><img width="80%" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum/addendum-02.png" alt="Addendum filters"/></a>
+
+**💰 General Sales Report** — income composition, order types, payment methods & discounts
+<a href="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum/addendum-03.png"><img width="80%" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum/addendum-03.png" alt="Addendum sales report"/></a>
+
+**🖥️ Workstations Report** — sales by workstation, employee & order type
+<a href="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum/addendum-04.png"><img width="80%" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum/addendum-04.png" alt="Addendum workstations"/></a>
+
+**⏱️ KDS Performance Report** — orders, average prep times & per-device performance
+<a href="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum/addendum-05.png"><img width="80%" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum/addendum-05.png" alt="Addendum KDS"/></a>
+
+**🧾 Closed Checks Detail** — per order type with full payment breakdown
+<a href="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum/addendum-06.png"><img width="80%" src="https://raw.githubusercontent.com/JpdzRamirez/cros_repository/main/Resources/img/addendum/addendum-06.png" alt="Addendum checks"/></a>
+
+</div>
+
+</details>
 
 <details>
 <summary><b>📦 &nbsp;More projects (Standard &amp; Simple)</b></summary>
