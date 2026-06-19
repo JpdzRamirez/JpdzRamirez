@@ -37,7 +37,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=JpdzRamirez&amp;style=for-the-badge&amp;color=7928ca&amp;label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=JpdzRamirez.JpdzRamirez&amp;left_text=PROFILE%20VIEWS&amp;left_color=0b0f1a&amp;right_color=7928ca" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/JpdzRamirez?style=for-the-badge&amp;color=00d4ff&amp;labelColor=0b0f1a&amp;logo=github" alt="followers"/>
 
 </div>
